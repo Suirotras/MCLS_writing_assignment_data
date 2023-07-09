@@ -1,0 +1,1118 @@
+created_at,user_id,user_email,article_id,key,value
+2023-05-15T18:59:27.249Z,344286,jarivandiermen@hotmail.com,1000417350,"""PMS""",1
+2023-05-16T11:22:05.649Z,344286,jarivandiermen@hotmail.com,1000417228,"""__EXR__No environmental factor""",1
+2023-05-16T11:22:05.758Z,344286,jarivandiermen@hotmail.com,1000417228,included,-1
+2023-05-16T11:22:33.586Z,344286,jarivandiermen@hotmail.com,1000417232,"""PMS""",1
+2023-05-16T11:24:13.321Z,344286,jarivandiermen@hotmail.com,1000417232,"""__EXR__No environmental factor""",1
+2023-05-16T11:24:13.368Z,344286,jarivandiermen@hotmail.com,1000417232,included,-1
+2023-05-16T11:25:50.306Z,344286,jarivandiermen@hotmail.com,1000417233,"""__EXR__No environmental factor""",1
+2023-05-16T11:25:50.353Z,344286,jarivandiermen@hotmail.com,1000417233,included,-1
+2023-05-16T11:27:00.744Z,344286,jarivandiermen@hotmail.com,1000417237,"""__EXR__No environmental factor""",1
+2023-05-16T11:27:00.791Z,344286,jarivandiermen@hotmail.com,1000417237,included,-1
+2023-05-16T11:27:46.197Z,344286,jarivandiermen@hotmail.com,1000417237,"""__EXR__No EWAS""",1
+2023-05-16T11:27:46.244Z,344286,jarivandiermen@hotmail.com,1000417237,included,-1
+2023-05-16T11:29:17.464Z,344286,jarivandiermen@hotmail.com,1000417238,"""__EXR__No environmental factor""",1
+2023-05-16T11:29:17.573Z,344286,jarivandiermen@hotmail.com,1000417238,included,-1
+2023-05-16T11:30:43.776Z,344286,jarivandiermen@hotmail.com,1000417242,"""Meta-analysis""",1
+2023-05-16T11:34:26.731Z,344286,jarivandiermen@hotmail.com,1000417242,included,1
+2023-05-16T11:42:19.702Z,344286,jarivandiermen@hotmail.com,1000417243,included,1
+2023-05-16T11:46:10.953Z,344286,jarivandiermen@hotmail.com,1000417244,included,0
+2023-05-16T11:50:26.423Z,344286,jarivandiermen@hotmail.com,1000417246,included,1
+2023-05-16T11:53:45.799Z,344286,jarivandiermen@hotmail.com,1000417247,"""__EXR__No environmental factor""",1
+2023-05-16T11:53:45.830Z,344286,jarivandiermen@hotmail.com,1000417247,included,-1
+2023-05-16T11:54:16.096Z,344286,jarivandiermen@hotmail.com,1000417249,"""__EXR__No environmental factor""",1
+2023-05-16T11:54:16.143Z,344286,jarivandiermen@hotmail.com,1000417249,included,-1
+2023-05-16T11:54:24.596Z,344286,jarivandiermen@hotmail.com,1000417249,"""__EXR__Is systematic review""",1
+2023-05-16T11:54:24.627Z,344286,jarivandiermen@hotmail.com,1000417249,included,-1
+2023-05-16T11:55:40.065Z,344286,jarivandiermen@hotmail.com,1000417250,"""Meta-analysis""",1
+2023-05-16T11:56:13.237Z,344286,jarivandiermen@hotmail.com,1000417250,"""__EXR__No Blood samples""",1
+2023-05-16T11:56:13.284Z,344286,jarivandiermen@hotmail.com,1000417250,included,-1
+2023-05-16T12:03:16.536Z,344286,jarivandiermen@hotmail.com,1000417251,included,1
+2023-05-16T12:04:30.240Z,344286,jarivandiermen@hotmail.com,1000417255,"""__EXR__No environmental factor""",1
+2023-05-16T12:04:30.287Z,344286,jarivandiermen@hotmail.com,1000417255,included,-1
+2023-05-16T12:05:19.146Z,344286,jarivandiermen@hotmail.com,1000417257,"""Meta-analysis""",1
+2023-05-16T12:08:58.929Z,344286,jarivandiermen@hotmail.com,1000417257,"""PMS""",1
+2023-05-16T12:09:03.851Z,344286,jarivandiermen@hotmail.com,1000417257,included,1
+2023-05-16T12:09:09.445Z,344286,jarivandiermen@hotmail.com,1000417259,"""Meta-analysis""",1
+2023-05-16T12:21:13.698Z,344286,jarivandiermen@hotmail.com,1000417259,included,1
+2023-05-16T12:26:39.263Z,344286,jarivandiermen@hotmail.com,1000417262,included,1
+2023-05-16T12:33:03.687Z,344286,jarivandiermen@hotmail.com,1000417259,"""__EXR__Maternal""",1
+2023-05-16T12:33:03.733Z,344286,jarivandiermen@hotmail.com,1000417259,included,-1
+2023-05-16T12:34:41.249Z,344286,jarivandiermen@hotmail.com,1000417259,"""__EXR__cord blood""",1
+2023-05-16T12:34:41.312Z,344286,jarivandiermen@hotmail.com,1000417259,included,-1
+2023-05-16T12:34:56.156Z,344286,jarivandiermen@hotmail.com,1000417262,"""__EXR__cord blood""",1
+2023-05-16T12:34:56.265Z,344286,jarivandiermen@hotmail.com,1000417262,included,-1
+2023-05-16T12:36:55.500Z,344286,jarivandiermen@hotmail.com,1000417263,"""__EXR__cord blood""",1
+2023-05-16T12:36:55.625Z,344286,jarivandiermen@hotmail.com,1000417263,included,-1
+2023-05-16T12:37:06.469Z,344286,jarivandiermen@hotmail.com,1000417263,"""__EXR__Maternal""",1
+2023-05-16T12:37:06.563Z,344286,jarivandiermen@hotmail.com,1000417263,included,-1
+2023-05-16T12:38:44.329Z,344286,jarivandiermen@hotmail.com,1000417267,"""Meta-analysis""",1
+2023-05-16T12:39:30.313Z,344286,jarivandiermen@hotmail.com,1000417267,"""__EXR__cord blood""",1
+2023-05-16T12:39:30.423Z,344286,jarivandiermen@hotmail.com,1000417267,included,-1
+2023-05-16T12:40:09.564Z,344286,jarivandiermen@hotmail.com,1000417271,"""__EXR__cord blood""",1
+2023-05-16T12:40:09.595Z,344286,jarivandiermen@hotmail.com,1000417271,included,-1
+2023-05-16T12:40:26.361Z,344286,jarivandiermen@hotmail.com,1000417271,"""__EXR__Maternal""",1
+2023-05-16T12:40:26.392Z,344286,jarivandiermen@hotmail.com,1000417271,included,-1
+2023-05-16T12:45:48.706Z,344286,jarivandiermen@hotmail.com,1000417269,"""PMS""",1
+2023-05-16T12:46:39.972Z,344286,jarivandiermen@hotmail.com,1000417269,included,1
+2023-05-16T12:48:06.332Z,344286,jarivandiermen@hotmail.com,1000417268,included,1
+2023-05-16T13:03:26.931Z,344286,jarivandiermen@hotmail.com,1000417272,included,1
+2023-05-16T13:07:44.260Z,344286,jarivandiermen@hotmail.com,1000417273,included,1
+2023-05-16T13:08:30.260Z,344286,jarivandiermen@hotmail.com,1000417274,"""PMS""",1
+2023-05-16T13:08:47.448Z,344286,jarivandiermen@hotmail.com,1000417274,"""__EXR__No environmental factor""",1
+2023-05-16T13:08:47.495Z,344286,jarivandiermen@hotmail.com,1000417274,included,-1
+2023-05-16T13:09:58.417Z,344286,jarivandiermen@hotmail.com,1000417278,"""__EXR__No environmental factor""",1
+2023-05-16T13:09:58.527Z,344286,jarivandiermen@hotmail.com,1000417278,included,-1
+2023-05-16T13:10:11.620Z,344286,jarivandiermen@hotmail.com,1000417280,"""Meta-analysis""",1
+2023-05-16T13:12:13.168Z,344286,jarivandiermen@hotmail.com,1000417280,"""__EXR__paternal""",1
+2023-05-16T13:12:13.215Z,344286,jarivandiermen@hotmail.com,1000417280,included,-1
+2023-05-16T13:14:45.434Z,344286,jarivandiermen@hotmail.com,1000417281,included,1
+2023-05-16T13:15:29.169Z,344286,jarivandiermen@hotmail.com,1000417282,"""__EXR__No environmental factor""",1
+2023-05-16T13:15:29.200Z,344286,jarivandiermen@hotmail.com,1000417282,included,-1
+2023-05-16T13:17:16.685Z,344286,jarivandiermen@hotmail.com,1000417283,"""Meta-analysis""",1
+2023-05-16T13:17:17.794Z,344286,jarivandiermen@hotmail.com,1000417283,included,1
+2023-05-16T13:38:31.082Z,344286,jarivandiermen@hotmail.com,1000417284,included,1
+2023-05-16T13:41:37.646Z,344286,jarivandiermen@hotmail.com,1000417286,included,1
+2023-05-16T13:42:02.912Z,344286,jarivandiermen@hotmail.com,1000417242,"""sleep""",1
+2023-05-16T13:43:47.412Z,344286,jarivandiermen@hotmail.com,1000417243,"""early life stressors""",1
+2023-05-16T13:44:07.381Z,344286,jarivandiermen@hotmail.com,1000417244,"""__EXR__No environmental factor""",1
+2023-05-16T13:44:07.428Z,344286,jarivandiermen@hotmail.com,1000417244,included,-1
+2023-05-16T13:44:15.553Z,344286,jarivandiermen@hotmail.com,1000417246,"""greeness""",1
+2023-05-16T13:44:21.912Z,344286,jarivandiermen@hotmail.com,1000417251,"""greeness""",1
+2023-05-16T13:44:34.569Z,344286,jarivandiermen@hotmail.com,1000417257,"""alcohol""",1
+2023-05-16T13:45:03.569Z,344286,jarivandiermen@hotmail.com,1000417268,"""air pollution""",1
+2023-05-16T13:45:16.084Z,344286,jarivandiermen@hotmail.com,1000417269,"""cannabis""",1
+2023-05-16T13:45:26.194Z,344286,jarivandiermen@hotmail.com,1000417272,"""ambient temperature""",1
+2023-05-16T13:45:36.319Z,344286,jarivandiermen@hotmail.com,1000417273,"""__EXR__paternal""",1
+2023-05-16T13:45:36.366Z,344286,jarivandiermen@hotmail.com,1000417273,included,-1
+2023-05-16T13:45:50.882Z,344286,jarivandiermen@hotmail.com,1000417281,"""body fat""",1
+2023-05-16T13:45:57.803Z,344286,jarivandiermen@hotmail.com,1000417283,"""body fat""",1
+2023-05-16T13:46:03.788Z,344286,jarivandiermen@hotmail.com,1000417284,"""air pollution""",1
+2023-05-16T13:46:29.507Z,344286,jarivandiermen@hotmail.com,1000417286,"""smoking""",1
+2023-05-16T13:46:36.976Z,344286,jarivandiermen@hotmail.com,1000417287,"""smoking""",1
+2023-05-16T13:48:00.523Z,344286,jarivandiermen@hotmail.com,1000417287,"""smoking""",deleted
+2023-05-16T13:48:20.226Z,344286,jarivandiermen@hotmail.com,1000417287,"""__EXR__No EWAS""",1
+2023-05-16T13:48:20.273Z,344286,jarivandiermen@hotmail.com,1000417287,included,-1
+2023-05-16T13:48:36.148Z,344286,jarivandiermen@hotmail.com,1000417340,"""body fat""",1
+2023-05-16T13:51:21.243Z,344286,jarivandiermen@hotmail.com,1000417340,included,1
+2023-05-16T13:53:44.275Z,344286,jarivandiermen@hotmail.com,1000417344,"""smoking""",1
+2023-05-16T13:54:08.041Z,344286,jarivandiermen@hotmail.com,1000417344,included,1
+2023-05-16T13:54:32.009Z,344286,jarivandiermen@hotmail.com,1000417346,"""Socioeconomic status""",1
+2023-05-16T13:55:55.541Z,344286,jarivandiermen@hotmail.com,1000417346,"""Socioeconomic status""",deleted
+2023-05-16T13:56:07.697Z,344286,jarivandiermen@hotmail.com,1000417346,"""__EXR__cord blood""",1
+2023-05-16T13:56:07.760Z,344286,jarivandiermen@hotmail.com,1000417346,included,-1
+2023-05-16T13:58:23.620Z,344286,jarivandiermen@hotmail.com,1000417347,"""__EXR__No environmental factor""",1
+2023-05-16T13:58:23.714Z,344286,jarivandiermen@hotmail.com,1000417347,included,-1
+2023-05-16T13:58:40.729Z,344286,jarivandiermen@hotmail.com,1000417348,"""WTC""",1
+2023-05-16T13:58:56.120Z,344286,jarivandiermen@hotmail.com,1000417348,included,1
+2023-05-16T13:59:09.511Z,344286,jarivandiermen@hotmail.com,1000417349,"""__EXR__No environmental factor""",1
+2023-05-16T13:59:09.542Z,344286,jarivandiermen@hotmail.com,1000417349,included,-1
+2023-05-16T14:01:53.043Z,344286,jarivandiermen@hotmail.com,1000417350,"""body fat""",1
+2023-05-16T14:01:54.074Z,344286,jarivandiermen@hotmail.com,1000417350,included,1
+2023-05-16T14:02:24.324Z,344286,jarivandiermen@hotmail.com,1000417351,"""Diet""",1
+2023-05-16T14:03:10.043Z,344286,jarivandiermen@hotmail.com,1000417351,"""Meta-analysis""",1
+2023-05-16T14:03:56.497Z,344286,jarivandiermen@hotmail.com,1000417351,included,1
+2023-05-16T14:04:10.778Z,344286,jarivandiermen@hotmail.com,1000417353,"""alcohol""",1
+2023-05-16T14:05:06.450Z,344286,jarivandiermen@hotmail.com,1000417353,included,1
+2023-05-16T14:06:03.810Z,344286,jarivandiermen@hotmail.com,1000417354,"""__EXR__Maternal""",1
+2023-05-16T14:06:03.872Z,344286,jarivandiermen@hotmail.com,1000417354,included,-1
+2023-05-16T14:14:15.031Z,344286,jarivandiermen@hotmail.com,1000417356,"""PMS""",1
+2023-05-16T14:14:19.750Z,344286,jarivandiermen@hotmail.com,1000417356,"""smoking""",1
+2023-05-16T14:14:21.188Z,344286,jarivandiermen@hotmail.com,1000417356,included,1
+2023-05-16T14:15:15.141Z,344286,jarivandiermen@hotmail.com,1000417357,"""body fat""",1
+2023-05-16T14:15:16.703Z,344286,jarivandiermen@hotmail.com,1000417357,included,1
+2023-05-16T14:18:29.876Z,344286,jarivandiermen@hotmail.com,1000417358,"""smoking""",1
+2023-05-16T14:18:31.220Z,344286,jarivandiermen@hotmail.com,1000417358,included,1
+2023-05-16T14:19:17.111Z,344286,jarivandiermen@hotmail.com,1000417360,"""__EXR__Is review""",1
+2023-05-16T14:19:17.174Z,344286,jarivandiermen@hotmail.com,1000417360,included,-1
+2023-05-16T14:20:37.908Z,344286,jarivandiermen@hotmail.com,1000417361,"""endocrine disruptors""",1
+2023-05-16T14:20:39.424Z,344286,jarivandiermen@hotmail.com,1000417361,included,1
+2023-05-16T14:21:50.206Z,344286,jarivandiermen@hotmail.com,1000417367,"""__EXR__No EWAS""",1
+2023-05-16T14:21:50.331Z,344286,jarivandiermen@hotmail.com,1000417367,included,-1
+2023-05-16T14:22:30.346Z,344286,jarivandiermen@hotmail.com,1000417369,"""metal exposure""",1
+2023-05-16T14:24:35.784Z,344286,jarivandiermen@hotmail.com,1000417369,included,1
+2023-05-16T14:25:01.081Z,344286,jarivandiermen@hotmail.com,1000417370,"""__EXR__No environmental factor""",1
+2023-05-16T14:25:01.128Z,344286,jarivandiermen@hotmail.com,1000417370,included,-1
+2023-05-16T14:25:32.222Z,344286,jarivandiermen@hotmail.com,1000417371,"""__EXR__No environmental factor""",1
+2023-05-16T14:25:32.269Z,344286,jarivandiermen@hotmail.com,1000417371,included,-1
+2023-05-16T14:25:44.425Z,344286,jarivandiermen@hotmail.com,1000417372,"""air pollution""",1
+2023-05-16T14:27:13.082Z,344286,jarivandiermen@hotmail.com,1000417372,included,1
+2023-05-16T14:27:20.363Z,344286,jarivandiermen@hotmail.com,1000417373,"""WTC""",1
+2023-05-16T14:28:01.769Z,344286,jarivandiermen@hotmail.com,1000417373,included,1
+2023-05-16T14:28:14.441Z,344286,jarivandiermen@hotmail.com,1000417375,"""air pollution""",1
+2023-05-16T14:28:26.941Z,344286,jarivandiermen@hotmail.com,1000417375,included,1
+2023-05-16T14:28:46.129Z,344286,jarivandiermen@hotmail.com,1000417379,"""__EXR__No environmental factor""",1
+2023-05-16T14:28:46.176Z,344286,jarivandiermen@hotmail.com,1000417379,included,-1
+2023-05-16T14:30:57.880Z,344286,jarivandiermen@hotmail.com,1000417380,"""__EXR__No EWAS""",1
+2023-05-16T14:30:57.942Z,344286,jarivandiermen@hotmail.com,1000417380,included,-1
+2023-05-16T14:33:08.708Z,344286,jarivandiermen@hotmail.com,1000417381,"""body fat""",1
+2023-05-16T14:33:09.880Z,344286,jarivandiermen@hotmail.com,1000417381,included,1
+2023-05-16T14:40:18.304Z,344286,jarivandiermen@hotmail.com,1000417384,"""neighborhood disadvantage""",1
+2023-05-16T14:40:19.211Z,344286,jarivandiermen@hotmail.com,1000417384,included,1
+2023-05-16T14:40:59.742Z,344286,jarivandiermen@hotmail.com,1000417385,"""__EXR__No environmental factor""",1
+2023-05-16T14:40:59.820Z,344286,jarivandiermen@hotmail.com,1000417385,included,-1
+2023-05-16T14:41:54.336Z,344286,jarivandiermen@hotmail.com,1000417387,"""__EXR__No environmental factor""",1
+2023-05-16T14:41:54.383Z,344286,jarivandiermen@hotmail.com,1000417387,included,-1
+2023-05-16T14:44:31.525Z,344286,jarivandiermen@hotmail.com,1000417389,"""__EXR__cord blood""",1
+2023-05-16T14:44:31.619Z,344286,jarivandiermen@hotmail.com,1000417389,included,-1
+2023-05-16T14:44:46.306Z,344286,jarivandiermen@hotmail.com,1000417392,"""__EXR__No environmental factor""",1
+2023-05-16T14:44:46.416Z,344286,jarivandiermen@hotmail.com,1000417392,included,-1
+2023-05-16T14:46:40.525Z,344286,jarivandiermen@hotmail.com,1000417393,"""__EXR__No Blood samples""",1
+2023-05-16T14:46:40.619Z,344286,jarivandiermen@hotmail.com,1000417393,included,-1
+2023-05-16T14:46:54.479Z,344286,jarivandiermen@hotmail.com,1000417395,"""__EXR__No environmental factor""",1
+2023-05-16T14:46:54.510Z,344286,jarivandiermen@hotmail.com,1000417395,included,-1
+2023-05-16T14:49:58.589Z,344286,jarivandiermen@hotmail.com,1000417397,"""__EXR__Maternal""",1
+2023-05-16T14:49:58.636Z,344286,jarivandiermen@hotmail.com,1000417397,included,-1
+2023-05-16T14:50:00.058Z,344286,jarivandiermen@hotmail.com,1000417397,"""__EXR__cord blood""",1
+2023-05-16T14:50:00.073Z,344286,jarivandiermen@hotmail.com,1000417397,included,-1
+2023-05-16T14:50:19.995Z,344286,jarivandiermen@hotmail.com,1000417460,"""__EXR__cord blood""",1
+2023-05-16T14:50:20.058Z,344286,jarivandiermen@hotmail.com,1000417460,included,-1
+2023-05-16T14:50:26.167Z,344286,jarivandiermen@hotmail.com,1000417460,"""__EXR__Maternal""",1
+2023-05-16T14:50:26.214Z,344286,jarivandiermen@hotmail.com,1000417460,included,-1
+2023-05-16T14:50:37.480Z,344286,jarivandiermen@hotmail.com,1000417463,"""Meta-analysis""",1
+2023-05-16T14:51:12.355Z,344286,jarivandiermen@hotmail.com,1000417463,"""__EXR__Maternal""",1
+2023-05-16T14:51:12.808Z,344286,jarivandiermen@hotmail.com,1000417463,included,-1
+2023-05-16T14:51:16.636Z,344286,jarivandiermen@hotmail.com,1000417463,"""__EXR__cord blood""",1
+2023-05-16T14:51:16.683Z,344286,jarivandiermen@hotmail.com,1000417463,included,-1
+2023-05-16T14:51:38.652Z,344286,jarivandiermen@hotmail.com,1000417464,"""__EXR__Maternal""",1
+2023-05-16T14:51:38.730Z,344286,jarivandiermen@hotmail.com,1000417464,included,-1
+2023-05-16T14:51:42.543Z,344286,jarivandiermen@hotmail.com,1000417464,"""__EXR__cord blood""",1
+2023-05-16T14:51:42.590Z,344286,jarivandiermen@hotmail.com,1000417464,included,-1
+2023-05-16T14:54:46.294Z,344286,jarivandiermen@hotmail.com,1000417467,"""metal exposure""",1
+2023-05-16T14:54:47.512Z,344286,jarivandiermen@hotmail.com,1000417467,included,1
+2023-05-16T15:41:45.824Z,344286,jarivandiermen@hotmail.com,1000417468,"""body fat""",1
+2023-05-16T15:41:47.136Z,344286,jarivandiermen@hotmail.com,1000417468,included,1
+2023-05-16T15:42:00.918Z,344286,jarivandiermen@hotmail.com,1000417470,"""__EXR__No environmental factor""",1
+2023-05-16T15:42:00.980Z,344286,jarivandiermen@hotmail.com,1000417470,included,-1
+2023-05-16T15:44:15.543Z,344286,jarivandiermen@hotmail.com,1000417471,"""smoking""",1
+2023-05-16T15:44:17.309Z,344286,jarivandiermen@hotmail.com,1000417471,included,1
+2023-05-16T15:44:26.903Z,344286,jarivandiermen@hotmail.com,1000417471,"""PMS""",1
+2023-05-16T15:46:10.778Z,344286,jarivandiermen@hotmail.com,1000417477,"""smoking""",1
+2023-05-16T15:46:12.544Z,344286,jarivandiermen@hotmail.com,1000417477,included,1
+2023-05-16T15:47:44.873Z,344286,jarivandiermen@hotmail.com,1000417478,"""PCR exposure""",1
+2023-05-16T15:47:46.513Z,344286,jarivandiermen@hotmail.com,1000417478,included,1
+2023-05-16T15:53:47.516Z,344286,jarivandiermen@hotmail.com,1000417482,"""__EXR__No environmental factor""",1
+2023-05-16T15:53:47.610Z,344286,jarivandiermen@hotmail.com,1000417482,included,-1
+2023-05-16T15:54:36.922Z,344286,jarivandiermen@hotmail.com,1000417484,"""__EXR__No environmental factor""",1
+2023-05-16T15:54:36.969Z,344286,jarivandiermen@hotmail.com,1000417484,included,-1
+2023-05-16T15:55:04.516Z,344286,jarivandiermen@hotmail.com,1000417485,"""Meta-analysis""",1
+2023-05-16T15:55:23.641Z,344286,jarivandiermen@hotmail.com,1000417485,"""__EXR__No environmental factor""",1
+2023-05-16T15:55:23.688Z,344286,jarivandiermen@hotmail.com,1000417485,included,-1
+2023-05-16T15:56:56.267Z,344286,jarivandiermen@hotmail.com,1000417493,"""__EXR__Maternal""",1
+2023-05-16T15:56:56.314Z,344286,jarivandiermen@hotmail.com,1000417493,included,-1
+2023-05-16T15:57:57.314Z,344286,jarivandiermen@hotmail.com,1000417494,"""__EXR__Maternal""",1
+2023-05-16T15:57:57.361Z,344286,jarivandiermen@hotmail.com,1000417494,included,-1
+2023-05-16T16:00:44.690Z,344286,jarivandiermen@hotmail.com,1000417500,"""supplementation""",1
+2023-05-16T16:00:46.440Z,344286,jarivandiermen@hotmail.com,1000417500,included,1
+2023-05-16T16:03:13.331Z,344286,jarivandiermen@hotmail.com,1000417501,"""vehicle traffic""",1
+2023-05-16T16:03:14.456Z,344286,jarivandiermen@hotmail.com,1000417501,included,1
+2023-05-16T16:03:35.535Z,344286,jarivandiermen@hotmail.com,1000417504,"""__EXR__Maternal""",1
+2023-05-16T16:03:35.597Z,344286,jarivandiermen@hotmail.com,1000417504,included,-1
+2023-05-16T16:03:38.691Z,344286,jarivandiermen@hotmail.com,1000417504,"""__EXR__cord blood""",1
+2023-05-16T16:03:38.722Z,344286,jarivandiermen@hotmail.com,1000417504,included,-1
+2023-05-16T16:07:23.426Z,344286,jarivandiermen@hotmail.com,1000417510,"""__EXR__No environmental factor""",1
+2023-05-16T16:07:23.473Z,344286,jarivandiermen@hotmail.com,1000417510,included,-1
+2023-05-16T16:07:48.973Z,344286,jarivandiermen@hotmail.com,1000417511,"""Meta-analysis""",1
+2023-05-16T16:09:35.583Z,344286,jarivandiermen@hotmail.com,1000417511,included,0
+2023-05-16T16:09:46.583Z,344286,jarivandiermen@hotmail.com,1000417515,"""alcohol""",1
+2023-05-16T16:12:57.256Z,344286,jarivandiermen@hotmail.com,1000417515,included,1
+2023-05-16T16:13:04.974Z,344286,jarivandiermen@hotmail.com,1000417516,"""air pollution""",1
+2023-05-16T16:16:09.147Z,344286,jarivandiermen@hotmail.com,1000417516,included,1
+2023-05-16T16:16:41.147Z,344286,jarivandiermen@hotmail.com,1000417517,"""smoking""",1
+2023-05-16T16:20:20.664Z,344286,jarivandiermen@hotmail.com,1000417517,included,1
+2023-05-16T16:20:50.258Z,344286,jarivandiermen@hotmail.com,1000417519,"""agression""",1
+2023-05-16T16:21:01.993Z,344286,jarivandiermen@hotmail.com,1000417519,"""Meta-analysis""",1
+2023-05-16T16:24:46.588Z,344286,jarivandiermen@hotmail.com,1000417519,included,1
+2023-05-16T16:25:15.572Z,344286,jarivandiermen@hotmail.com,1000417520,"""__EXR__No environmental factor""",1
+2023-05-16T16:25:15.603Z,344286,jarivandiermen@hotmail.com,1000417520,included,-1
+2023-05-16T16:26:12.588Z,344286,jarivandiermen@hotmail.com,1000417521,"""__EXR__No environmental factor""",1
+2023-05-16T16:26:12.635Z,344286,jarivandiermen@hotmail.com,1000417521,included,-1
+2023-05-16T20:20:12.709Z,344286,jarivandiermen@hotmail.com,1000417522,"""hyperglycaemia exposure""",1
+2023-05-16T20:20:13.912Z,344286,jarivandiermen@hotmail.com,1000417522,included,1
+2023-05-16T20:21:37.381Z,344286,jarivandiermen@hotmail.com,1000417523,"""Dioxin-like compound exposure""",1
+2023-05-16T20:21:38.428Z,344286,jarivandiermen@hotmail.com,1000417523,included,1
+2023-05-16T20:22:33.335Z,344286,jarivandiermen@hotmail.com,1000417524,"""__EXR__No environmental factor""",1
+2023-05-16T20:22:33.366Z,344286,jarivandiermen@hotmail.com,1000417524,included,-1
+2023-05-16T20:24:45.632Z,344286,jarivandiermen@hotmail.com,1000417526,"""__EXR__No environmental factor""",1
+2023-05-16T20:24:45.726Z,344286,jarivandiermen@hotmail.com,1000417526,included,-1
+2023-05-16T20:27:33.430Z,344286,jarivandiermen@hotmail.com,1000417527,"""PMS""",1
+2023-05-16T20:27:43.805Z,344286,jarivandiermen@hotmail.com,1000417527,"""__EXR__No environmental factor""",1
+2023-05-16T20:27:43.852Z,344286,jarivandiermen@hotmail.com,1000417527,included,-1
+2023-05-16T20:28:01.399Z,344286,jarivandiermen@hotmail.com,1000417528,"""__EXR__No environmental factor""",1
+2023-05-16T20:28:01.430Z,344286,jarivandiermen@hotmail.com,1000417528,included,-1
+2023-05-16T20:30:46.525Z,344286,jarivandiermen@hotmail.com,1000417531,"""PMS""",1
+2023-05-16T20:33:08.572Z,344286,jarivandiermen@hotmail.com,1000417531,"""__EXR__No environmental factor""",1
+2023-05-16T20:33:08.619Z,344286,jarivandiermen@hotmail.com,1000417531,included,-1
+2023-05-16T20:36:41.901Z,344286,jarivandiermen@hotmail.com,1000417534,"""cancer treatment""",1
+2023-05-16T20:36:42.792Z,344286,jarivandiermen@hotmail.com,1000417534,included,1
+2023-05-16T20:38:06.074Z,344286,jarivandiermen@hotmail.com,1000417593,"""__EXR__No environmental factor""",1
+2023-05-16T20:38:06.121Z,344286,jarivandiermen@hotmail.com,1000417593,included,-1
+2023-05-16T20:38:46.090Z,344286,jarivandiermen@hotmail.com,1000417595,"""__EXR__Is systematic review""",1
+2023-05-16T20:38:46.105Z,344286,jarivandiermen@hotmail.com,1000417595,included,-1
+2023-05-16T20:38:50.183Z,344286,jarivandiermen@hotmail.com,1000417595,"""__EXR__Maternal""",1
+2023-05-16T20:38:50.215Z,344286,jarivandiermen@hotmail.com,1000417595,included,-1
+2023-05-16T20:38:52.559Z,344286,jarivandiermen@hotmail.com,1000417595,"""__EXR__cord blood""",1
+2023-05-16T20:38:53.027Z,344286,jarivandiermen@hotmail.com,1000417595,included,-1
+2023-05-16T20:43:17.139Z,344286,jarivandiermen@hotmail.com,1000417598,"""postprandial alteration""",1
+2023-05-16T20:43:21.764Z,344286,jarivandiermen@hotmail.com,1000417598,included,1
+2023-05-16T20:45:38.358Z,344286,jarivandiermen@hotmail.com,1000417600,"""__EXR__No EWAS""",1
+2023-05-16T20:45:38.389Z,344286,jarivandiermen@hotmail.com,1000417600,included,-1
+2023-05-16T20:45:39.655Z,344286,jarivandiermen@hotmail.com,1000417600,"""__EXR__No environmental factor""",1
+2023-05-16T20:45:39.686Z,344286,jarivandiermen@hotmail.com,1000417600,included,-1
+2023-05-16T20:49:38.109Z,344286,jarivandiermen@hotmail.com,1000417601,"""__EXR__No environmental factor""",1
+2023-05-16T20:49:38.156Z,344286,jarivandiermen@hotmail.com,1000417601,included,-1
+2023-05-16T20:52:03.751Z,344286,jarivandiermen@hotmail.com,1000417602,"""__EXR__No environmental factor""",1
+2023-05-16T20:52:03.813Z,344286,jarivandiermen@hotmail.com,1000417602,included,-1
+2023-05-16T20:52:07.126Z,344286,jarivandiermen@hotmail.com,1000417602,"""__EXR__cord blood""",1
+2023-05-16T20:52:07.157Z,344286,jarivandiermen@hotmail.com,1000417602,included,-1
+2023-05-16T20:53:45.673Z,344286,jarivandiermen@hotmail.com,1000417605,"""__EXR__No environmental factor""",1
+2023-05-16T20:53:45.704Z,344286,jarivandiermen@hotmail.com,1000417605,included,-1
+2023-05-16T20:55:57.096Z,344286,jarivandiermen@hotmail.com,1000417608,"""metal exposure""",1
+2023-05-16T20:55:59.439Z,344286,jarivandiermen@hotmail.com,1000417608,included,1
+2023-05-16T20:56:45.643Z,344286,jarivandiermen@hotmail.com,1000417609,"""__EXR__No environmental factor""",1
+2023-05-16T20:56:45.737Z,344286,jarivandiermen@hotmail.com,1000417609,included,-1
+2023-05-16T20:58:44.581Z,344286,jarivandiermen@hotmail.com,1000417610,"""__EXR__No EWAS""",1
+2023-05-16T20:58:44.659Z,344286,jarivandiermen@hotmail.com,1000417610,included,-1
+2023-05-16T20:59:37.643Z,344286,jarivandiermen@hotmail.com,1000417612,"""__EXR__cord blood""",1
+2023-05-16T20:59:37.690Z,344286,jarivandiermen@hotmail.com,1000417612,included,-1
+2023-05-16T20:59:43.221Z,344286,jarivandiermen@hotmail.com,1000417612,"""__EXR__Maternal""",1
+2023-05-16T20:59:43.268Z,344286,jarivandiermen@hotmail.com,1000417612,included,-1
+2023-05-16T20:59:58.800Z,344286,jarivandiermen@hotmail.com,1000417614,"""Racial discrimination""",1
+2023-05-16T21:00:52.659Z,344286,jarivandiermen@hotmail.com,1000417614,included,1
+2023-05-16T21:01:00.628Z,344286,jarivandiermen@hotmail.com,1000417615,"""__EXR__cord blood""",1
+2023-05-16T21:01:00.659Z,344286,jarivandiermen@hotmail.com,1000417615,included,-1
+2023-05-16T21:01:50.785Z,344286,jarivandiermen@hotmail.com,1000417616,"""__EXR__Maternal""",1
+2023-05-16T21:01:50.816Z,344286,jarivandiermen@hotmail.com,1000417616,included,-1
+2023-05-16T21:01:55.113Z,344286,jarivandiermen@hotmail.com,1000417616,"""__EXR__cord blood""",1
+2023-05-16T21:01:55.253Z,344286,jarivandiermen@hotmail.com,1000417616,included,-1
+2023-05-16T21:02:08.082Z,344286,jarivandiermen@hotmail.com,1000417623,"""__EXR__cord blood""",1
+2023-05-16T21:02:08.113Z,344286,jarivandiermen@hotmail.com,1000417623,included,-1
+2023-05-16T21:02:11.894Z,344286,jarivandiermen@hotmail.com,1000417623,"""__EXR__Maternal""",1
+2023-05-16T21:02:11.972Z,344286,jarivandiermen@hotmail.com,1000417623,included,-1
+2023-05-16T21:02:36.926Z,344286,jarivandiermen@hotmail.com,1000417624,"""PMS""",1
+2023-05-16T21:04:24.192Z,344286,jarivandiermen@hotmail.com,1000417624,included,1
+2023-05-16T21:05:09.613Z,344286,jarivandiermen@hotmail.com,1000417625,"""__EXR__cord blood""",1
+2023-05-16T21:05:09.660Z,344286,jarivandiermen@hotmail.com,1000417625,included,-1
+2023-05-16T21:05:10.988Z,344286,jarivandiermen@hotmail.com,1000417625,"""__EXR__Maternal""",1
+2023-05-16T21:05:11.050Z,344286,jarivandiermen@hotmail.com,1000417625,included,-1
+2023-05-16T21:08:05.865Z,344286,jarivandiermen@hotmail.com,1000417628,"""__EXR__paternal""",1
+2023-05-16T21:08:05.896Z,344286,jarivandiermen@hotmail.com,1000417628,included,-1
+2023-05-16T21:10:59.381Z,344286,jarivandiermen@hotmail.com,1000417629,included,0
+2023-05-16T21:11:13.616Z,344286,jarivandiermen@hotmail.com,1000417629,"""physical frailty""",1
+2023-05-16T21:14:06.195Z,344286,jarivandiermen@hotmail.com,1000417630,"""__EXR__No environmental factor""",1
+2023-05-16T21:14:06.242Z,344286,jarivandiermen@hotmail.com,1000417630,included,-1
+2023-05-16T21:15:27.173Z,344286,jarivandiermen@hotmail.com,1000417631,"""__EXR__Maternal""",1
+2023-05-16T21:15:27.204Z,344286,jarivandiermen@hotmail.com,1000417631,included,-1
+2023-05-16T21:19:17.806Z,344286,jarivandiermen@hotmail.com,1000417633,"""smoking""",1
+2023-05-16T21:19:19.196Z,344286,jarivandiermen@hotmail.com,1000417633,included,1
+2023-05-16T21:19:56.993Z,344286,jarivandiermen@hotmail.com,1000417639,"""__EXR__No environmental factor""",1
+2023-05-16T21:19:57.071Z,344286,jarivandiermen@hotmail.com,1000417639,included,-1
+2023-05-16T21:21:17.384Z,344286,jarivandiermen@hotmail.com,1000417642,"""__EXR__No environmental factor""",1
+2023-05-16T21:21:17.416Z,344286,jarivandiermen@hotmail.com,1000417642,included,-1
+2023-05-16T21:23:44.791Z,344286,jarivandiermen@hotmail.com,1000417644,"""asthma""",1
+2023-05-16T21:23:46.713Z,344286,jarivandiermen@hotmail.com,1000417644,included,1
+2023-05-16T21:24:22.838Z,344286,jarivandiermen@hotmail.com,1000417645,"""__EXR__No environmental factor""",1
+2023-05-16T21:24:22.870Z,344286,jarivandiermen@hotmail.com,1000417645,included,-1
+2023-05-16T21:25:51.386Z,344286,jarivandiermen@hotmail.com,1000417646,"""PBB exposure""",1
+2023-05-16T21:25:53.745Z,344286,jarivandiermen@hotmail.com,1000417646,included,1
+2023-05-16T21:26:13.292Z,344286,jarivandiermen@hotmail.com,1000417648,"""__EXR__Maternal""",1
+2023-05-16T21:26:13.323Z,344286,jarivandiermen@hotmail.com,1000417648,included,-1
+2023-05-16T21:26:18.417Z,344286,jarivandiermen@hotmail.com,1000417648,"""__EXR__cord blood""",1
+2023-05-16T21:26:18.448Z,344286,jarivandiermen@hotmail.com,1000417648,included,-1
+2023-05-16T21:26:42.636Z,344286,jarivandiermen@hotmail.com,1000417649,"""__EXR__cord blood""",1
+2023-05-16T21:26:42.683Z,344286,jarivandiermen@hotmail.com,1000417649,included,-1
+2023-05-16T21:26:45.652Z,344286,jarivandiermen@hotmail.com,1000417649,"""__EXR__Maternal""",1
+2023-05-16T21:26:45.683Z,344286,jarivandiermen@hotmail.com,1000417649,included,-1
+2023-05-17T11:57:24.020Z,344286,jarivandiermen@hotmail.com,1000417653,"""THM exposure""",1
+2023-05-17T12:00:54.083Z,344286,jarivandiermen@hotmail.com,1000417653,included,1
+2023-05-17T12:04:06.396Z,344286,jarivandiermen@hotmail.com,1000417707,"""__EXR__No environmental factor""",1
+2023-05-17T12:04:06.443Z,344286,jarivandiermen@hotmail.com,1000417707,included,-1
+2023-05-17T12:04:35.584Z,344286,jarivandiermen@hotmail.com,1000417708,"""__EXR__Maternal""",1
+2023-05-17T12:04:35.678Z,344286,jarivandiermen@hotmail.com,1000417708,included,-1
+2023-05-17T12:04:37.381Z,344286,jarivandiermen@hotmail.com,1000417708,"""__EXR__cord blood""",1
+2023-05-17T12:04:37.412Z,344286,jarivandiermen@hotmail.com,1000417708,included,-1
+2023-05-17T12:06:33.881Z,344286,jarivandiermen@hotmail.com,1000417714,"""__EXR__No EWAS""",1
+2023-05-17T12:06:33.991Z,344286,jarivandiermen@hotmail.com,1000417714,included,-1
+2023-05-17T12:08:03.366Z,344286,jarivandiermen@hotmail.com,1000417715,"""__EXR__No environmental factor""",1
+2023-05-17T12:08:03.413Z,344286,jarivandiermen@hotmail.com,1000417715,included,-1
+2023-05-17T12:08:41.788Z,344286,jarivandiermen@hotmail.com,1000417716,"""__EXR__No environmental factor""",1
+2023-05-17T12:08:41.819Z,344286,jarivandiermen@hotmail.com,1000417716,included,-1
+2023-05-17T12:13:25.571Z,344286,jarivandiermen@hotmail.com,1000417719,"""Selenium""",1
+2023-05-17T12:13:28.462Z,344286,jarivandiermen@hotmail.com,1000417719,"""body fat""",1
+2023-05-17T12:13:29.680Z,344286,jarivandiermen@hotmail.com,1000417719,included,0
+2023-05-17T12:17:25.041Z,344286,jarivandiermen@hotmail.com,1000417720,"""air pollution""",1
+2023-05-17T12:17:27.072Z,344286,jarivandiermen@hotmail.com,1000417720,included,1
+2023-05-17T12:20:08.214Z,344286,jarivandiermen@hotmail.com,1000417722,"""__EXR__No environmental factor""",1
+2023-05-17T12:20:08.277Z,344286,jarivandiermen@hotmail.com,1000417722,included,-1
+2023-05-17T12:20:21.980Z,344286,jarivandiermen@hotmail.com,1000417724,"""__EXR__Maternal""",1
+2023-05-17T12:20:22.011Z,344286,jarivandiermen@hotmail.com,1000417724,included,-1
+2023-05-17T12:21:11.761Z,344286,jarivandiermen@hotmail.com,1000417727,"""__EXR__Maternal""",1
+2023-05-17T12:21:11.793Z,344286,jarivandiermen@hotmail.com,1000417727,included,-1
+2023-05-17T12:21:13.824Z,344286,jarivandiermen@hotmail.com,1000417727,"""__EXR__No Blood samples""",1
+2023-05-17T12:21:13.855Z,344286,jarivandiermen@hotmail.com,1000417727,included,-1
+2023-05-17T12:21:39.512Z,344286,jarivandiermen@hotmail.com,1000417728,"""body fat""",1
+2023-05-17T12:23:34.293Z,344286,jarivandiermen@hotmail.com,1000417728,included,1
+2023-05-17T12:23:47.387Z,344286,jarivandiermen@hotmail.com,1000417735,"""__EXR__No environmental factor""",1
+2023-05-17T12:23:47.481Z,344286,jarivandiermen@hotmail.com,1000417735,included,-1
+2023-05-17T12:25:40.732Z,344286,jarivandiermen@hotmail.com,1000417738,"""hunger""",1
+2023-05-17T12:25:43.325Z,344286,jarivandiermen@hotmail.com,1000417738,included,1
+2023-05-17T12:26:12.904Z,344286,jarivandiermen@hotmail.com,1000417741,"""TCE exposure""",1
+2023-05-17T12:26:24.888Z,344286,jarivandiermen@hotmail.com,1000417741,included,1
+2023-05-17T12:28:57.576Z,344286,jarivandiermen@hotmail.com,1000417742,"""__EXR__No EWAS""",1
+2023-05-17T12:28:57.623Z,344286,jarivandiermen@hotmail.com,1000417742,included,-1
+2023-05-17T12:29:58.764Z,344286,jarivandiermen@hotmail.com,1000417744,"""__EXR__Maternal""",1
+2023-05-17T12:29:58.874Z,344286,jarivandiermen@hotmail.com,1000417744,included,-1
+2023-05-17T12:30:08.045Z,344286,jarivandiermen@hotmail.com,1000417745,"""cannabis""",1
+2023-05-17T12:31:54.015Z,344286,jarivandiermen@hotmail.com,1000417745,included,1
+2023-05-17T12:32:06.609Z,344286,jarivandiermen@hotmail.com,1000417746,"""Opiods""",1
+2023-05-17T12:32:36.828Z,344286,jarivandiermen@hotmail.com,1000417746,included,1
+2023-05-17T12:33:00.109Z,344286,jarivandiermen@hotmail.com,1000417748,"""__EXR__No environmental factor""",1
+2023-05-17T12:33:00.156Z,344286,jarivandiermen@hotmail.com,1000417748,included,-1
+2023-05-17T12:33:08.765Z,344286,jarivandiermen@hotmail.com,1000417749,"""__EXR__Maternal""",1
+2023-05-17T12:33:08.796Z,344286,jarivandiermen@hotmail.com,1000417749,included,-1
+2023-05-17T12:33:10.172Z,344286,jarivandiermen@hotmail.com,1000417749,"""__EXR__cord blood""",1
+2023-05-17T12:33:10.203Z,344286,jarivandiermen@hotmail.com,1000417749,included,-1
+2023-05-17T12:33:32.922Z,344286,jarivandiermen@hotmail.com,1000417751,"""__EXR__No environmental factor""",1
+2023-05-17T12:33:32.969Z,344286,jarivandiermen@hotmail.com,1000417751,included,-1
+2023-05-17T12:33:46.969Z,344286,jarivandiermen@hotmail.com,1000417752,"""body fat""",1
+2023-05-17T12:53:31.553Z,344286,jarivandiermen@hotmail.com,1000417752,"""PMS""",1
+2023-05-17T12:53:32.209Z,344286,jarivandiermen@hotmail.com,1000417752,included,1
+2023-05-17T12:53:48.162Z,344286,jarivandiermen@hotmail.com,1000417754,"""__EXR__cord blood""",1
+2023-05-17T12:53:48.193Z,344286,jarivandiermen@hotmail.com,1000417754,included,-1
+2023-05-17T12:55:02.022Z,344286,jarivandiermen@hotmail.com,1000417755,"""__EXR__No Blood samples""",1
+2023-05-17T12:55:02.053Z,344286,jarivandiermen@hotmail.com,1000417755,included,-1
+2023-05-17T12:55:08.475Z,344286,jarivandiermen@hotmail.com,1000417755,"""__EXR__No environmental factor""",1
+2023-05-17T12:55:08.522Z,344286,jarivandiermen@hotmail.com,1000417755,included,-1
+2023-05-17T12:55:28.163Z,344286,jarivandiermen@hotmail.com,1000417757,"""__EXR__Maternal""",1
+2023-05-17T12:55:28.194Z,344286,jarivandiermen@hotmail.com,1000417757,included,-1
+2023-05-17T12:57:27.179Z,344286,jarivandiermen@hotmail.com,1000417760,"""__EXR__No environmental factor""",1
+2023-05-17T12:57:27.210Z,344286,jarivandiermen@hotmail.com,1000417760,included,-1
+2023-05-17T13:01:20.071Z,344286,jarivandiermen@hotmail.com,1000417762,"""childhood adversity""",1
+2023-05-17T13:01:21.633Z,344286,jarivandiermen@hotmail.com,1000417762,included,1
+2023-05-17T13:01:33.227Z,344286,jarivandiermen@hotmail.com,1000417764,"""__EXR__Maternal""",1
+2023-05-17T13:01:33.274Z,344286,jarivandiermen@hotmail.com,1000417764,included,-1
+2023-05-17T13:01:36.102Z,344286,jarivandiermen@hotmail.com,1000417764,"""__EXR__cord blood""",1
+2023-05-17T13:01:36.211Z,344286,jarivandiermen@hotmail.com,1000417764,included,-1
+2023-05-17T13:01:48.243Z,344286,jarivandiermen@hotmail.com,1000417766,"""__EXR__Maternal""",1
+2023-05-17T13:01:48.274Z,344286,jarivandiermen@hotmail.com,1000417766,included,-1
+2023-05-17T13:01:51.290Z,344286,jarivandiermen@hotmail.com,1000417766,"""__EXR__cord blood""",1
+2023-05-17T13:01:51.337Z,344286,jarivandiermen@hotmail.com,1000417766,included,-1
+2023-05-17T13:05:26.978Z,344286,jarivandiermen@hotmail.com,1000417768,"""childhood adversity""",1
+2023-05-17T13:05:28.760Z,344286,jarivandiermen@hotmail.com,1000417768,included,0
+2023-05-17T13:06:49.744Z,344286,jarivandiermen@hotmail.com,1000417812,"""smoking""",1
+2023-05-17T13:06:50.573Z,344286,jarivandiermen@hotmail.com,1000417812,included,0
+2023-05-17T13:09:06.948Z,344286,jarivandiermen@hotmail.com,1000417813,"""__EXR__No environmental factor""",1
+2023-05-17T13:09:06.995Z,344286,jarivandiermen@hotmail.com,1000417813,included,-1
+2023-05-17T13:09:29.058Z,344286,jarivandiermen@hotmail.com,1000417815,"""__EXR__Maternal""",1
+2023-05-17T13:09:29.105Z,344286,jarivandiermen@hotmail.com,1000417815,included,-1
+2023-05-17T13:09:30.652Z,344286,jarivandiermen@hotmail.com,1000417815,"""__EXR__cord blood""",1
+2023-05-17T13:09:30.698Z,344286,jarivandiermen@hotmail.com,1000417815,included,-1
+2023-05-17T13:09:39.574Z,344286,jarivandiermen@hotmail.com,1000417819,"""__EXR__Maternal""",1
+2023-05-17T13:09:39.605Z,344286,jarivandiermen@hotmail.com,1000417819,included,-1
+2023-05-17T13:09:41.167Z,344286,jarivandiermen@hotmail.com,1000417819,"""__EXR__cord blood""",1
+2023-05-17T13:09:41.199Z,344286,jarivandiermen@hotmail.com,1000417819,included,-1
+2023-05-17T13:26:03.063Z,344286,jarivandiermen@hotmail.com,1000417822,"""smoking""",1
+2023-05-17T13:26:06.173Z,344286,jarivandiermen@hotmail.com,1000417822,included,1
+2023-05-17T13:26:23.970Z,344286,jarivandiermen@hotmail.com,1000417824,"""__EXR__No environmental factor""",1
+2023-05-17T13:26:24.064Z,344286,jarivandiermen@hotmail.com,1000417824,included,-1
+2023-05-17T13:26:59.204Z,344286,jarivandiermen@hotmail.com,1000417826,"""arsenic exposure""",1
+2023-05-17T13:27:26.064Z,344286,jarivandiermen@hotmail.com,1000417826,included,1
+2023-05-17T13:27:57.673Z,344286,jarivandiermen@hotmail.com,1000417827,"""__EXR__Maternal""",1
+2023-05-17T13:27:57.829Z,344286,jarivandiermen@hotmail.com,1000417827,included,-1
+2023-05-17T13:30:00.080Z,344286,jarivandiermen@hotmail.com,1000417828,"""__EXR__No human sample""",1
+2023-05-17T13:30:00.127Z,344286,jarivandiermen@hotmail.com,1000417828,included,-1
+2023-05-17T13:30:13.283Z,344286,jarivandiermen@hotmail.com,1000417829,"""__EXR__Maternal""",1
+2023-05-17T13:30:13.361Z,344286,jarivandiermen@hotmail.com,1000417829,included,-1
+2023-05-17T13:30:32.783Z,344286,jarivandiermen@hotmail.com,1000417830,"""__EXR__No environmental factor""",1
+2023-05-17T13:30:32.861Z,344286,jarivandiermen@hotmail.com,1000417830,included,-1
+2023-05-17T13:30:46.221Z,344286,jarivandiermen@hotmail.com,1000417832,"""__EXR__Maternal""",1
+2023-05-17T13:30:46.299Z,344286,jarivandiermen@hotmail.com,1000417832,included,-1
+2023-05-17T13:31:02.612Z,344286,jarivandiermen@hotmail.com,1000417834,"""__EXR__No environmental factor""",1
+2023-05-17T13:31:02.658Z,344286,jarivandiermen@hotmail.com,1000417834,included,-1
+2023-05-17T13:32:08.565Z,344286,jarivandiermen@hotmail.com,1000417835,"""childhood trauma""",1
+2023-05-17T13:32:09.877Z,344286,jarivandiermen@hotmail.com,1000417835,included,1
+2023-05-17T13:35:02.363Z,344286,jarivandiermen@hotmail.com,1000417836,"""__EXR__No environmental factor""",1
+2023-05-17T13:35:02.394Z,344286,jarivandiermen@hotmail.com,1000417836,included,-1
+2023-05-17T13:37:33.723Z,344286,jarivandiermen@hotmail.com,1000417837,"""argenic exposure""",1
+2023-05-17T13:37:35.457Z,344286,jarivandiermen@hotmail.com,1000417837,included,0
+2023-05-17T13:38:09.067Z,344286,jarivandiermen@hotmail.com,1000417842,"""__EXR__No environmental factor""",1
+2023-05-17T13:38:09.114Z,344286,jarivandiermen@hotmail.com,1000417842,included,-1
+2023-05-17T13:39:04.520Z,344286,jarivandiermen@hotmail.com,1000417843,"""__EXR__Maternal""",1
+2023-05-17T13:39:04.567Z,344286,jarivandiermen@hotmail.com,1000417843,included,-1
+2023-05-17T13:39:56.833Z,344286,jarivandiermen@hotmail.com,1000417844,"""__EXR__cord blood""",1
+2023-05-17T13:39:56.896Z,344286,jarivandiermen@hotmail.com,1000417844,included,-1
+2023-05-17T13:39:58.583Z,344286,jarivandiermen@hotmail.com,1000417844,"""__EXR__Maternal""",1
+2023-05-17T13:39:58.614Z,344286,jarivandiermen@hotmail.com,1000417844,included,-1
+2023-05-17T13:40:03.708Z,344286,jarivandiermen@hotmail.com,1000417848,"""__EXR__cord blood""",1
+2023-05-17T13:40:03.880Z,344286,jarivandiermen@hotmail.com,1000417848,included,-1
+2023-05-17T13:40:05.614Z,344286,jarivandiermen@hotmail.com,1000417848,"""__EXR__Maternal""",1
+2023-05-17T13:40:05.646Z,344286,jarivandiermen@hotmail.com,1000417848,included,-1
+2023-05-17T13:40:32.177Z,344286,jarivandiermen@hotmail.com,1000417849,"""__EXR__No environmental factor""",1
+2023-05-17T13:40:32.208Z,344286,jarivandiermen@hotmail.com,1000417849,included,-1
+2023-05-17T13:41:01.271Z,344286,jarivandiermen@hotmail.com,1000417851,"""__EXR__No environmental factor""",1
+2023-05-17T13:41:01.287Z,344286,jarivandiermen@hotmail.com,1000417851,included,-1
+2023-05-17T13:41:07.865Z,344286,jarivandiermen@hotmail.com,1000417856,"""__EXR__No environmental factor""",1
+2023-05-17T13:41:07.896Z,344286,jarivandiermen@hotmail.com,1000417856,included,-1
+2023-05-17T13:41:55.677Z,344286,jarivandiermen@hotmail.com,1000417858,"""__EXR__prenatal""",1
+2023-05-17T13:41:55.849Z,344286,jarivandiermen@hotmail.com,1000417858,included,-1
+2023-05-17T13:42:39.318Z,344286,jarivandiermen@hotmail.com,1000417860,"""smoking""",1
+2023-05-17T13:42:40.053Z,344286,jarivandiermen@hotmail.com,1000417860,included,1
+2023-05-17T13:43:16.912Z,344286,jarivandiermen@hotmail.com,1000417862,"""__EXR__No environmental factor""",1
+2023-05-17T13:43:16.943Z,344286,jarivandiermen@hotmail.com,1000417862,included,-1
+2023-05-17T13:44:06.491Z,344286,jarivandiermen@hotmail.com,1000417863,"""__EXR__No environmental factor""",1
+2023-05-17T13:44:06.522Z,344286,jarivandiermen@hotmail.com,1000417863,included,-1
+2023-05-17T13:44:09.194Z,344286,jarivandiermen@hotmail.com,1000417863,"""__EXR__No EWAS""",1
+2023-05-17T13:44:09.975Z,344286,jarivandiermen@hotmail.com,1000417863,included,-1
+2023-05-17T13:44:56.788Z,344286,jarivandiermen@hotmail.com,1000417865,"""__EXR__prenatal""",1
+2023-05-17T13:44:56.882Z,344286,jarivandiermen@hotmail.com,1000417865,included,-1
+2023-05-17T13:45:04.132Z,344286,jarivandiermen@hotmail.com,1000417865,"""__EXR__No EWAS""",1
+2023-05-17T13:45:04.163Z,344286,jarivandiermen@hotmail.com,1000417865,included,-1
+2023-05-17T13:45:06.194Z,344286,jarivandiermen@hotmail.com,1000417865,"""__EXR__No human sample""",1
+2023-05-17T13:45:06.257Z,344286,jarivandiermen@hotmail.com,1000417865,included,-1
+2023-05-17T13:47:52.898Z,344286,jarivandiermen@hotmail.com,1000417868,"""__EXR__No environmental factor""",1
+2023-05-17T13:47:53.039Z,344286,jarivandiermen@hotmail.com,1000417868,included,-1
+2023-05-17T13:49:03.503Z,344286,jarivandiermen@hotmail.com,1000428197,"""smoking""",1
+2023-05-17T13:49:10.395Z,344286,jarivandiermen@hotmail.com,1000428197,"""cadmium""",1
+2023-05-17T13:49:26.022Z,344286,jarivandiermen@hotmail.com,1000428197,included,1
+2023-05-17T13:50:18.305Z,344286,jarivandiermen@hotmail.com,1000428198,"""__EXR__No environmental factor""",1
+2023-05-17T13:50:18.352Z,344286,jarivandiermen@hotmail.com,1000428198,included,-1
+2023-05-17T13:50:33.930Z,344286,jarivandiermen@hotmail.com,1000428199,"""__EXR__No environmental factor""",1
+2023-05-17T13:50:34.009Z,344286,jarivandiermen@hotmail.com,1000428199,included,-1
+2023-05-17T13:51:56.196Z,344286,jarivandiermen@hotmail.com,1000428203,"""__EXR__No environmental factor""",1
+2023-05-17T13:51:56.228Z,344286,jarivandiermen@hotmail.com,1000428203,included,-1
+2023-05-17T13:53:00.603Z,344286,jarivandiermen@hotmail.com,1000428204,"""lipids""",1
+2023-05-17T13:53:02.666Z,344286,jarivandiermen@hotmail.com,1000428204,included,0
+2023-05-17T13:53:17.306Z,344286,jarivandiermen@hotmail.com,1000428206,"""__EXR__No environmental factor""",1
+2023-05-17T13:53:17.400Z,344286,jarivandiermen@hotmail.com,1000428206,included,-1
+2023-05-17T13:54:01.713Z,344286,jarivandiermen@hotmail.com,1000428206,"""Meta-analysis""",1
+2023-05-17T13:54:10.666Z,344286,jarivandiermen@hotmail.com,1000428208,"""__EXR__No environmental factor""",1
+2023-05-17T13:54:10.713Z,344286,jarivandiermen@hotmail.com,1000428208,included,-1
+2023-05-17T13:56:24.573Z,344286,jarivandiermen@hotmail.com,1000428209,"""WTC""",1
+2023-05-17T13:56:26.901Z,344286,jarivandiermen@hotmail.com,1000428209,included,1
+2023-05-17T13:56:38.995Z,344286,jarivandiermen@hotmail.com,1000428210,"""__EXR__No environmental factor""",1
+2023-05-17T13:56:39.089Z,344286,jarivandiermen@hotmail.com,1000428210,included,-1
+2023-05-17T13:56:47.651Z,344286,jarivandiermen@hotmail.com,1000428210,"""Meta-analysis""",1
+2023-05-17T13:57:27.620Z,344286,jarivandiermen@hotmail.com,1000428214,"""__EXR__No environmental factor""",1
+2023-05-17T13:57:27.698Z,344286,jarivandiermen@hotmail.com,1000428214,included,-1
+2023-05-17T13:58:23.324Z,344286,jarivandiermen@hotmail.com,1000428215,"""__EXR__No environmental factor""",1
+2023-05-17T13:58:23.402Z,344286,jarivandiermen@hotmail.com,1000428215,included,-1
+2023-05-17T16:16:41.492Z,344286,jarivandiermen@hotmail.com,1000428216,"""Benzene""",1
+2023-05-17T16:16:46.554Z,344286,jarivandiermen@hotmail.com,1000428216,"""Formaldehyde""",1
+2023-05-17T16:16:47.710Z,344286,jarivandiermen@hotmail.com,1000428216,included,1
+2023-05-17T16:18:09.867Z,344286,jarivandiermen@hotmail.com,1000428218,"""__EXR__No environmental factor""",1
+2023-05-17T16:18:09.961Z,344286,jarivandiermen@hotmail.com,1000428218,included,-1
+2023-05-17T16:19:07.664Z,344286,jarivandiermen@hotmail.com,1000428220,"""__EXR__No environmental factor""",1
+2023-05-17T16:19:07.711Z,344286,jarivandiermen@hotmail.com,1000428220,included,-1
+2023-05-17T16:19:18.602Z,344286,jarivandiermen@hotmail.com,1000428222,"""Meta-analysis""",1
+2023-05-17T16:19:37.758Z,344286,jarivandiermen@hotmail.com,1000428222,"""__EXR__No environmental factor""",1
+2023-05-17T16:19:37.774Z,344286,jarivandiermen@hotmail.com,1000428222,included,-1
+2023-05-17T16:20:27.180Z,344286,jarivandiermen@hotmail.com,1000428223,"""__EXR__No environmental factor""",1
+2023-05-17T16:20:27.227Z,344286,jarivandiermen@hotmail.com,1000428223,included,-1
+2023-05-17T16:23:15.775Z,344286,jarivandiermen@hotmail.com,1000428224,"""smoking""",1
+2023-05-17T16:23:16.712Z,344286,jarivandiermen@hotmail.com,1000428224,included,1
+2023-05-17T16:23:47.791Z,344286,jarivandiermen@hotmail.com,1000428226,"""Meta-analysis""",1
+2023-05-17T16:24:23.635Z,344286,jarivandiermen@hotmail.com,1000428226,"""PTSD""",1
+2023-05-17T16:24:24.416Z,344286,jarivandiermen@hotmail.com,1000428226,included,0
+2023-05-17T16:24:56.213Z,344286,jarivandiermen@hotmail.com,1000428228,"""Perceived discrimination""",1
+2023-05-17T16:26:16.745Z,344286,jarivandiermen@hotmail.com,1000428228,included,1
+2023-05-17T16:29:20.449Z,344286,jarivandiermen@hotmail.com,1000428229,"""Diet""",1
+2023-05-17T16:29:21.589Z,344286,jarivandiermen@hotmail.com,1000428229,included,1
+2023-05-17T16:31:14.184Z,344286,jarivandiermen@hotmail.com,1000428230,"""__EXR__Maternal""",1
+2023-05-17T16:31:14.246Z,344286,jarivandiermen@hotmail.com,1000428230,included,-1
+2023-05-17T16:32:20.372Z,344286,jarivandiermen@hotmail.com,1000428232,"""__EXR__No environmental factor""",1
+2023-05-17T16:32:20.403Z,344286,jarivandiermen@hotmail.com,1000428232,included,-1
+2023-05-17T16:32:22.668Z,344286,jarivandiermen@hotmail.com,1000428232,"""__EXR__cord blood""",1
+2023-05-17T16:32:22.762Z,344286,jarivandiermen@hotmail.com,1000428232,included,-1
+2023-05-17T16:33:56.153Z,344286,jarivandiermen@hotmail.com,1000428237,"""PMS""",1
+2023-05-17T16:34:08.935Z,344286,jarivandiermen@hotmail.com,1000428237,"""__EXR__No environmental factor""",1
+2023-05-17T16:34:08.982Z,344286,jarivandiermen@hotmail.com,1000428237,included,-1
+2023-05-17T16:36:29.357Z,344286,jarivandiermen@hotmail.com,1000428238,"""social determinants""",1
+2023-05-17T16:36:30.951Z,344286,jarivandiermen@hotmail.com,1000428238,included,1
+2023-05-17T16:37:10.045Z,344286,jarivandiermen@hotmail.com,1000428239,"""__EXR__No environmental factor""",1
+2023-05-17T16:37:10.092Z,344286,jarivandiermen@hotmail.com,1000428239,included,-1
+2023-05-17T21:35:20.763Z,344286,jarivandiermen@hotmail.com,1000428240,"""__EXR__No environmental factor""",1
+2023-05-17T21:35:20.810Z,344286,jarivandiermen@hotmail.com,1000428240,included,-1
+2023-05-17T21:37:51.764Z,344286,jarivandiermen@hotmail.com,1000428242,"""early life adversity""",1
+2023-05-17T21:37:53.264Z,344286,jarivandiermen@hotmail.com,1000428242,included,1
+2023-05-17T21:38:10.202Z,344286,jarivandiermen@hotmail.com,1000428243,"""__EXR__No environmental factor""",1
+2023-05-17T21:38:10.233Z,344286,jarivandiermen@hotmail.com,1000428243,included,-1
+2023-05-17T21:38:32.155Z,344286,jarivandiermen@hotmail.com,1000428244,"""__EXR__No environmental factor""",1
+2023-05-17T21:38:32.264Z,344286,jarivandiermen@hotmail.com,1000428244,included,-1
+2023-05-17T21:39:58.484Z,344286,jarivandiermen@hotmail.com,1000428245,"""breastfeeding""",1
+2023-05-17T21:40:03.827Z,344286,jarivandiermen@hotmail.com,1000428245,included,1
+2023-05-17T21:41:15.046Z,344286,jarivandiermen@hotmail.com,1000428246,"""__EXR__No environmental factor""",1
+2023-05-17T21:41:15.078Z,344286,jarivandiermen@hotmail.com,1000428246,included,-1
+2023-05-17T21:42:37.312Z,344286,jarivandiermen@hotmail.com,1000428247,"""Diet""",1
+2023-05-17T21:42:38.937Z,344286,jarivandiermen@hotmail.com,1000428247,included,1
+2023-05-17T21:42:46.078Z,344286,jarivandiermen@hotmail.com,1000428251,"""__EXR__No environmental factor""",1
+2023-05-17T21:42:46.203Z,344286,jarivandiermen@hotmail.com,1000428251,included,-1
+2023-05-17T21:43:45.703Z,344286,jarivandiermen@hotmail.com,1000428252,"""__EXR__No environmental factor""",1
+2023-05-17T21:43:45.750Z,344286,jarivandiermen@hotmail.com,1000428252,included,-1
+2023-05-17T21:44:25.719Z,344286,jarivandiermen@hotmail.com,1000428253,"""__EXR__No environmental factor""",1
+2023-05-17T21:44:25.750Z,344286,jarivandiermen@hotmail.com,1000428253,included,-1
+2023-05-17T21:47:17.720Z,344286,jarivandiermen@hotmail.com,1000428254,"""Diet""",1
+2023-05-17T21:47:18.829Z,344286,jarivandiermen@hotmail.com,1000428254,included,1
+2023-05-17T21:51:23.487Z,344286,jarivandiermen@hotmail.com,1000428255,"""smoking""",1
+2023-05-17T21:51:23.971Z,344286,jarivandiermen@hotmail.com,1000428255,included,1
+2023-05-17T21:54:10.065Z,344286,jarivandiermen@hotmail.com,1000428256,"""body fat""",1
+2023-05-17T21:54:11.972Z,344286,jarivandiermen@hotmail.com,1000428256,included,1
+2023-05-17T21:54:33.159Z,344286,jarivandiermen@hotmail.com,1000428257,"""__EXR__No environmental factor""",1
+2023-05-17T21:54:33.253Z,344286,jarivandiermen@hotmail.com,1000428257,included,-1
+2023-05-17T21:58:23.973Z,344286,jarivandiermen@hotmail.com,1000428261,"""__EXR__No Blood samples""",1
+2023-05-17T21:58:24.004Z,344286,jarivandiermen@hotmail.com,1000428261,included,-1
+2023-05-17T21:58:33.036Z,344286,jarivandiermen@hotmail.com,1000428262,"""__EXR__No environmental factor""",1
+2023-05-17T21:58:33.098Z,344286,jarivandiermen@hotmail.com,1000428262,included,-1
+2023-05-17T21:59:30.286Z,344286,jarivandiermen@hotmail.com,1000428263,"""__EXR__No environmental factor""",1
+2023-05-17T21:59:30.380Z,344286,jarivandiermen@hotmail.com,1000428263,included,-1
+2023-05-17T22:00:59.833Z,344286,jarivandiermen@hotmail.com,1000428265,"""wellbeing""",1
+2023-05-17T22:01:00.802Z,344286,jarivandiermen@hotmail.com,1000428265,included,1
+2023-05-18T09:26:56.499Z,344286,jarivandiermen@hotmail.com,1000428266,"""chemotherapy""",1
+2023-05-18T09:26:59.046Z,344286,jarivandiermen@hotmail.com,1000428266,included,1
+2023-05-18T09:27:27.031Z,344286,jarivandiermen@hotmail.com,1000428268,"""__EXR__No environmental factor""",1
+2023-05-18T09:27:27.062Z,344286,jarivandiermen@hotmail.com,1000428268,included,-1
+2023-05-18T09:27:55.031Z,344286,jarivandiermen@hotmail.com,1000428269,"""__EXR__No environmental factor""",1
+2023-05-18T09:27:55.078Z,344286,jarivandiermen@hotmail.com,1000428269,included,-1
+2023-05-18T09:29:30.797Z,344286,jarivandiermen@hotmail.com,1000428272,"""__EXR__No EWAS""",1
+2023-05-18T09:29:30.844Z,344286,jarivandiermen@hotmail.com,1000428272,included,-1
+2023-05-18T09:29:35.860Z,344286,jarivandiermen@hotmail.com,1000428272,"""__EXR__No EWAS""",deleted
+2023-05-18T09:29:37.532Z,344286,jarivandiermen@hotmail.com,1000428272,"""__EXR__No environmental factor""",1
+2023-05-18T09:29:37.578Z,344286,jarivandiermen@hotmail.com,1000428272,included,-1
+2023-05-18T09:31:50.188Z,344286,jarivandiermen@hotmail.com,1000428274,"""metabotype""",1
+2023-05-18T09:31:51.095Z,344286,jarivandiermen@hotmail.com,1000428274,included,0
+2023-05-18T09:34:45.752Z,344286,jarivandiermen@hotmail.com,1000428275,"""smoking""",1
+2023-05-18T09:34:46.549Z,344286,jarivandiermen@hotmail.com,1000428275,included,1
+2023-05-18T09:35:20.221Z,344286,jarivandiermen@hotmail.com,1000428276,"""__EXR__No environmental factor""",1
+2023-05-18T09:35:20.299Z,344286,jarivandiermen@hotmail.com,1000428276,included,-1
+2023-05-18T09:36:04.862Z,344286,jarivandiermen@hotmail.com,1000428277,"""__EXR__No environmental factor""",1
+2023-05-18T09:36:04.940Z,344286,jarivandiermen@hotmail.com,1000428277,included,-1
+2023-05-18T09:36:45.300Z,344286,jarivandiermen@hotmail.com,1000428279,"""Meta-analysis""",1
+2023-05-18T09:38:46.503Z,344286,jarivandiermen@hotmail.com,1000428279,"""physical activity""",1
+2023-05-18T09:38:47.129Z,344286,jarivandiermen@hotmail.com,1000428279,included,1
+2023-05-18T09:39:03.847Z,344286,jarivandiermen@hotmail.com,1000428281,"""__EXR__No EWAS""",1
+2023-05-18T09:39:03.879Z,344286,jarivandiermen@hotmail.com,1000428281,included,-1
+2023-05-18T09:39:07.222Z,344286,jarivandiermen@hotmail.com,1000428281,"""__EXR__No EWAS""",deleted
+2023-05-18T09:39:08.566Z,344286,jarivandiermen@hotmail.com,1000428281,"""__EXR__No environmental factor""",1
+2023-05-18T09:39:08.629Z,344286,jarivandiermen@hotmail.com,1000428281,included,-1
+2023-05-18T09:39:24.519Z,344286,jarivandiermen@hotmail.com,1000428284,"""__EXR__No environmental factor""",1
+2023-05-18T09:39:24.551Z,344286,jarivandiermen@hotmail.com,1000428284,included,-1
+2023-05-18T09:39:43.176Z,344286,jarivandiermen@hotmail.com,1000428288,"""__EXR__No environmental factor""",1
+2023-05-18T09:39:43.223Z,344286,jarivandiermen@hotmail.com,1000428288,included,-1
+2023-05-18T09:39:59.644Z,344286,jarivandiermen@hotmail.com,1000428295,"""Meta-analysis""",1
+2023-05-18T09:40:00.973Z,344286,jarivandiermen@hotmail.com,1000428295,"""__EXR__No environmental factor""",1
+2023-05-18T09:40:01.004Z,344286,jarivandiermen@hotmail.com,1000428295,included,-1
+2023-05-18T09:42:57.161Z,344286,jarivandiermen@hotmail.com,1000428298,"""HDI exposure""",1
+2023-05-18T09:42:58.442Z,344286,jarivandiermen@hotmail.com,1000428298,included,1
+2023-05-18T09:43:17.005Z,344286,jarivandiermen@hotmail.com,1000428299,"""__EXR__No environmental factor""",1
+2023-05-18T09:43:17.036Z,344286,jarivandiermen@hotmail.com,1000428299,included,-1
+2023-05-18T09:44:10.318Z,344286,jarivandiermen@hotmail.com,1000428301,"""suicide""",1
+2023-05-18T09:44:11.755Z,344286,jarivandiermen@hotmail.com,1000428301,included,0
+2023-05-18T09:45:21.131Z,344286,jarivandiermen@hotmail.com,1000428302,"""optimism""",1
+2023-05-18T09:45:21.818Z,344286,jarivandiermen@hotmail.com,1000428302,included,1
+2023-05-18T09:45:28.552Z,344286,jarivandiermen@hotmail.com,1000428304,"""__EXR__No environmental factor""",1
+2023-05-18T09:45:28.584Z,344286,jarivandiermen@hotmail.com,1000428304,included,-1
+2023-05-18T09:45:36.881Z,344286,jarivandiermen@hotmail.com,1000428305,"""__EXR__No environmental factor""",1
+2023-05-18T09:45:36.974Z,344286,jarivandiermen@hotmail.com,1000428305,included,-1
+2023-05-18T09:46:14.678Z,344286,jarivandiermen@hotmail.com,1000428308,"""Meta-analysis""",1
+2023-05-18T09:46:28.428Z,344286,jarivandiermen@hotmail.com,1000428308,"""body fat""",1
+2023-05-18T09:46:29.412Z,344286,jarivandiermen@hotmail.com,1000428308,included,1
+2023-05-18T09:46:52.365Z,344286,jarivandiermen@hotmail.com,1000428309,"""aggressive behaviour""",1
+2023-05-18T09:48:16.397Z,344286,jarivandiermen@hotmail.com,1000428309,included,1
+2023-05-18T09:48:23.866Z,344286,jarivandiermen@hotmail.com,1000428310,"""__EXR__cord blood""",1
+2023-05-18T09:48:23.897Z,344286,jarivandiermen@hotmail.com,1000428310,included,-1
+2023-05-18T09:48:30.272Z,344286,jarivandiermen@hotmail.com,1000428310,"""__EXR__Maternal""",1
+2023-05-18T09:48:30.460Z,344286,jarivandiermen@hotmail.com,1000428310,included,-1
+2023-05-18T09:50:02.913Z,344286,jarivandiermen@hotmail.com,1000428312,"""__EXR__No environmental factor""",1
+2023-05-18T09:50:02.944Z,344286,jarivandiermen@hotmail.com,1000428312,included,-1
+2023-05-18T09:50:14.070Z,344286,jarivandiermen@hotmail.com,1000428313,"""__EXR__Maternal""",1
+2023-05-18T09:50:14.101Z,344286,jarivandiermen@hotmail.com,1000428313,included,-1
+2023-05-18T09:50:16.835Z,344286,jarivandiermen@hotmail.com,1000428313,"""__EXR__cord blood""",1
+2023-05-18T09:50:16.866Z,344286,jarivandiermen@hotmail.com,1000428313,included,-1
+2023-05-18T09:51:20.023Z,344286,jarivandiermen@hotmail.com,1000428314,"""__EXR__No environmental factor""",1
+2023-05-18T09:51:20.070Z,344286,jarivandiermen@hotmail.com,1000428314,included,-1
+2023-05-18T09:52:13.492Z,344286,jarivandiermen@hotmail.com,1000428315,"""__EXR__cord blood""",1
+2023-05-18T09:52:13.601Z,344286,jarivandiermen@hotmail.com,1000428315,included,-1
+2023-05-18T09:52:23.492Z,344286,jarivandiermen@hotmail.com,1000428317,"""__EXR__Maternal""",1
+2023-05-18T09:52:23.523Z,344286,jarivandiermen@hotmail.com,1000428317,included,-1
+2023-05-18T09:52:24.726Z,344286,jarivandiermen@hotmail.com,1000428317,"""__EXR__No environmental factor""",1
+2023-05-18T09:52:24.758Z,344286,jarivandiermen@hotmail.com,1000428317,included,-1
+2023-05-18T09:52:36.695Z,344286,jarivandiermen@hotmail.com,1000428318,"""__EXR__No environmental factor""",1
+2023-05-18T09:52:36.726Z,344286,jarivandiermen@hotmail.com,1000428318,included,-1
+2023-05-18T09:52:48.570Z,344286,jarivandiermen@hotmail.com,1000428321,"""__EXR__No environmental factor""",1
+2023-05-18T09:52:48.602Z,344286,jarivandiermen@hotmail.com,1000428321,included,-1
+2023-05-18T09:53:26.055Z,344286,jarivandiermen@hotmail.com,1000428322,"""Meta-analysis""",1
+2023-05-18T09:53:28.727Z,344286,jarivandiermen@hotmail.com,1000428322,"""__EXR__No environmental factor""",1
+2023-05-18T09:53:28.774Z,344286,jarivandiermen@hotmail.com,1000428322,included,-1
+2023-05-18T09:54:39.383Z,344286,jarivandiermen@hotmail.com,1000428324,"""folate""",1
+2023-05-18T09:54:40.352Z,344286,jarivandiermen@hotmail.com,1000428324,included,1
+2023-05-18T09:54:47.008Z,344286,jarivandiermen@hotmail.com,1000428324,"""vitamin""",1
+2023-05-18T09:54:48.274Z,344286,jarivandiermen@hotmail.com,1000428324,included,1
+2023-05-18T09:55:18.758Z,344286,jarivandiermen@hotmail.com,1000428326,"""handedness""",1
+2023-05-18T09:55:20.868Z,344286,jarivandiermen@hotmail.com,1000428326,included,0
+2023-05-18T09:55:38.915Z,344286,jarivandiermen@hotmail.com,1000428328,"""arsenic exposure""",1
+2023-05-18T09:56:14.306Z,344286,jarivandiermen@hotmail.com,1000428328,included,1
+2023-05-18T09:56:28.774Z,344286,jarivandiermen@hotmail.com,1000428330,"""__EXR__Maternal""",1
+2023-05-18T09:56:28.853Z,344286,jarivandiermen@hotmail.com,1000428330,included,-1
+2023-05-18T09:56:53.853Z,344286,jarivandiermen@hotmail.com,1000428332,"""aggressive behaviour""",1
+2023-05-18T09:57:11.462Z,344286,jarivandiermen@hotmail.com,1000428332,included,1
+2023-05-18T09:57:19.618Z,344286,jarivandiermen@hotmail.com,1000428334,"""__EXR__Maternal""",1
+2023-05-18T09:57:19.712Z,344286,jarivandiermen@hotmail.com,1000428334,included,-1
+2023-05-18T09:57:22.212Z,344286,jarivandiermen@hotmail.com,1000428334,"""__EXR__cord blood""",1
+2023-05-18T09:57:22.243Z,344286,jarivandiermen@hotmail.com,1000428334,included,-1
+2023-05-18T09:58:26.509Z,344286,jarivandiermen@hotmail.com,1000428336,"""alcohol""",1
+2023-05-18T09:58:28.462Z,344286,jarivandiermen@hotmail.com,1000428336,included,1
+2023-05-18T10:00:28.541Z,344286,jarivandiermen@hotmail.com,1000428337,"""radiation""",1
+2023-05-18T10:00:29.385Z,344286,jarivandiermen@hotmail.com,1000428337,included,0
+2023-05-18T10:00:38.604Z,344286,jarivandiermen@hotmail.com,1000428339,"""__EXR__Maternal""",1
+2023-05-18T10:00:38.698Z,344286,jarivandiermen@hotmail.com,1000428339,included,-1
+2023-05-18T10:00:54.495Z,344286,jarivandiermen@hotmail.com,1000428341,"""__EXR__No EWAS""",1
+2023-05-18T10:00:54.526Z,344286,jarivandiermen@hotmail.com,1000428341,included,-1
+2023-05-18T10:01:16.932Z,344286,jarivandiermen@hotmail.com,1000428343,"""__EXR__No environmental factor""",1
+2023-05-18T10:01:16.979Z,344286,jarivandiermen@hotmail.com,1000428343,included,-1
+2023-05-18T10:01:32.901Z,344286,jarivandiermen@hotmail.com,1000428344,"""__EXR__No environmental factor""",1
+2023-05-18T10:01:32.932Z,344286,jarivandiermen@hotmail.com,1000428344,included,-1
+2023-05-18T10:01:49.260Z,344286,jarivandiermen@hotmail.com,1000428349,"""__EXR__No environmental factor""",1
+2023-05-18T10:01:49.323Z,344286,jarivandiermen@hotmail.com,1000428349,included,-1
+2023-05-18T10:02:01.557Z,344286,jarivandiermen@hotmail.com,1000428350,"""__EXR__No environmental factor""",1
+2023-05-18T10:02:01.589Z,344286,jarivandiermen@hotmail.com,1000428350,included,-1
+2023-05-18T10:03:38.105Z,344286,jarivandiermen@hotmail.com,1000428351,"""__EXR__No Blood samples""",1
+2023-05-18T10:03:38.152Z,344286,jarivandiermen@hotmail.com,1000428351,included,-1
+2023-05-18T10:04:45.793Z,344286,jarivandiermen@hotmail.com,1000428352,"""breastfeeding""",1
+2023-05-18T10:04:47.668Z,344286,jarivandiermen@hotmail.com,1000428352,included,1
+2023-05-18T10:04:54.918Z,344286,jarivandiermen@hotmail.com,1000428355,"""__EXR__No environmental factor""",1
+2023-05-18T10:04:54.949Z,344286,jarivandiermen@hotmail.com,1000428355,included,-1
+2023-05-18T10:05:22.683Z,344286,jarivandiermen@hotmail.com,1000428358,"""__EXR__No environmental factor""",1
+2023-05-18T10:05:22.730Z,344286,jarivandiermen@hotmail.com,1000428358,included,-1
+2023-05-18T10:05:35.262Z,344286,jarivandiermen@hotmail.com,1000428361,"""__EXR__No environmental factor""",1
+2023-05-18T10:05:35.293Z,344286,jarivandiermen@hotmail.com,1000428361,included,-1
+2023-05-18T10:05:45.262Z,344286,jarivandiermen@hotmail.com,1000428363,"""__EXR__No environmental factor""",1
+2023-05-18T10:05:45.293Z,344286,jarivandiermen@hotmail.com,1000428363,included,-1
+2023-05-18T10:07:41.528Z,344286,jarivandiermen@hotmail.com,1000428366,"""attachment""",1
+2023-05-18T10:07:44.934Z,344286,jarivandiermen@hotmail.com,1000428366,included,1
+2023-05-18T10:07:57.356Z,344286,jarivandiermen@hotmail.com,1000428368,"""__EXR__cord blood""",1
+2023-05-18T10:07:57.465Z,344286,jarivandiermen@hotmail.com,1000428368,included,-1
+2023-05-18T10:08:00.278Z,344286,jarivandiermen@hotmail.com,1000428368,"""__EXR__No environmental factor""",1
+2023-05-18T10:08:00.309Z,344286,jarivandiermen@hotmail.com,1000428368,included,-1
+2023-05-18T10:08:05.075Z,344286,jarivandiermen@hotmail.com,1000428370,"""__EXR__No environmental factor""",1
+2023-05-18T10:08:05.106Z,344286,jarivandiermen@hotmail.com,1000428370,included,-1
+2023-05-18T10:08:19.091Z,344286,jarivandiermen@hotmail.com,1000428371,"""__EXR__No environmental factor""",1
+2023-05-18T10:08:19.122Z,344286,jarivandiermen@hotmail.com,1000428371,included,-1
+2023-05-18T10:08:26.591Z,344286,jarivandiermen@hotmail.com,1000428373,"""__EXR__Maternal""",1
+2023-05-18T10:08:26.637Z,344286,jarivandiermen@hotmail.com,1000428373,included,-1
+2023-05-18T10:08:31.997Z,344286,jarivandiermen@hotmail.com,1000428373,"""__EXR__cord blood""",1
+2023-05-18T10:08:32.091Z,344286,jarivandiermen@hotmail.com,1000428373,included,-1
+2023-05-18T10:08:50.747Z,344286,jarivandiermen@hotmail.com,1000428377,"""pesticide exposure""",1
+2023-05-18T10:10:49.232Z,344286,jarivandiermen@hotmail.com,1000428377,included,1
+2023-05-18T10:11:04.497Z,344286,jarivandiermen@hotmail.com,1000428378,"""__EXR__cord blood""",1
+2023-05-18T10:11:04.529Z,344286,jarivandiermen@hotmail.com,1000428378,included,-1
+2023-05-18T10:11:06.138Z,344286,jarivandiermen@hotmail.com,1000428378,"""__EXR__Maternal""",1
+2023-05-18T10:11:06.185Z,344286,jarivandiermen@hotmail.com,1000428378,included,-1
+2023-05-18T10:11:13.544Z,344286,jarivandiermen@hotmail.com,1000428379,"""__EXR__No environmental factor""",1
+2023-05-18T10:11:13.576Z,344286,jarivandiermen@hotmail.com,1000428379,included,-1
+2023-05-18T10:11:43.904Z,344286,jarivandiermen@hotmail.com,1000428382,"""smoking""",1
+2023-05-18T10:12:09.623Z,344286,jarivandiermen@hotmail.com,1000428382,included,1
+2023-05-18T10:13:15.139Z,344286,jarivandiermen@hotmail.com,1000428383,"""smoking""",1
+2023-05-18T10:13:16.701Z,344286,jarivandiermen@hotmail.com,1000428383,included,1
+2023-05-18T10:14:21.186Z,344286,jarivandiermen@hotmail.com,1000428384,"""__EXR__No environmental factor""",1
+2023-05-18T10:14:21.217Z,344286,jarivandiermen@hotmail.com,1000428384,included,-1
+2023-05-18T10:15:05.140Z,344286,jarivandiermen@hotmail.com,1000428387,"""__EXR__No environmental factor""",1
+2023-05-18T10:15:05.671Z,344286,jarivandiermen@hotmail.com,1000428387,included,-1
+2023-05-18T10:15:33.405Z,344286,jarivandiermen@hotmail.com,1000428388,"""__EXR__No environmental factor""",1
+2023-05-18T10:15:33.483Z,344286,jarivandiermen@hotmail.com,1000428388,included,-1
+2023-05-18T10:15:39.655Z,344286,jarivandiermen@hotmail.com,1000428388,"""__EXR__No human sample""",1
+2023-05-18T10:15:39.671Z,344286,jarivandiermen@hotmail.com,1000428388,included,-1
+2023-05-18T10:16:04.796Z,344286,jarivandiermen@hotmail.com,1000428389,"""__EXR__No environmental factor""",1
+2023-05-18T10:16:04.827Z,344286,jarivandiermen@hotmail.com,1000428389,included,-1
+2023-05-18T10:16:14.687Z,344286,jarivandiermen@hotmail.com,1000428392,"""__EXR__No environmental factor""",1
+2023-05-18T10:16:14.718Z,344286,jarivandiermen@hotmail.com,1000428392,included,-1
+2023-05-18T10:16:20.202Z,344286,jarivandiermen@hotmail.com,1000428395,"""__EXR__Maternal""",1
+2023-05-18T10:16:20.249Z,344286,jarivandiermen@hotmail.com,1000428395,included,-1
+2023-05-18T10:45:23.774Z,344286,jarivandiermen@hotmail.com,1000428396,"""early life adversity""",1
+2023-05-18T10:45:24.649Z,344286,jarivandiermen@hotmail.com,1000428396,included,1
+2023-05-18T10:46:50.930Z,344286,jarivandiermen@hotmail.com,1000428401,"""__EXR__No EWAS""",1
+2023-05-18T10:46:50.961Z,344286,jarivandiermen@hotmail.com,1000428401,included,-1
+2023-05-18T10:47:26.446Z,344286,jarivandiermen@hotmail.com,1000428403,"""hyperglycaemia exposure""",1
+2023-05-18T10:47:34.133Z,344286,jarivandiermen@hotmail.com,1000428403,included,0
+2023-05-18T10:47:42.430Z,344286,jarivandiermen@hotmail.com,1000428404,"""__EXR__Maternal""",1
+2023-05-18T10:47:42.493Z,344286,jarivandiermen@hotmail.com,1000428404,included,-1
+2023-05-18T10:47:44.602Z,344286,jarivandiermen@hotmail.com,1000428404,"""__EXR__cord blood""",1
+2023-05-18T10:47:44.633Z,344286,jarivandiermen@hotmail.com,1000428404,included,-1
+2023-05-18T10:48:00.962Z,344286,jarivandiermen@hotmail.com,1000428407,"""__EXR__No environmental factor""",1
+2023-05-18T10:48:00.993Z,344286,jarivandiermen@hotmail.com,1000428407,included,-1
+2023-05-18T10:48:25.306Z,344286,jarivandiermen@hotmail.com,1000428410,"""Meta-analysis""",1
+2023-05-18T10:50:03.993Z,344286,jarivandiermen@hotmail.com,1000428410,"""smoking""",1
+2023-05-18T10:50:05.572Z,344286,jarivandiermen@hotmail.com,1000428410,included,1
+2023-05-18T10:51:18.791Z,344286,jarivandiermen@hotmail.com,1000428416,"""__EXR__No environmental factor""",1
+2023-05-18T10:51:18.822Z,344286,jarivandiermen@hotmail.com,1000428416,included,-1
+2023-05-18T10:51:23.291Z,344286,jarivandiermen@hotmail.com,1000428416,"""__EXR__cord blood""",1
+2023-05-18T10:51:23.322Z,344286,jarivandiermen@hotmail.com,1000428416,included,-1
+2023-05-18T10:51:42.182Z,344286,jarivandiermen@hotmail.com,1000428417,"""__EXR__No environmental factor""",1
+2023-05-18T10:51:42.213Z,344286,jarivandiermen@hotmail.com,1000428417,included,-1
+2023-05-18T10:52:33.338Z,344286,jarivandiermen@hotmail.com,1000428418,"""body fat""",1
+2023-05-18T10:52:34.776Z,344286,jarivandiermen@hotmail.com,1000428418,included,1
+2023-05-18T10:52:49.869Z,344286,jarivandiermen@hotmail.com,1000428421,"""__EXR__Maternal""",1
+2023-05-18T10:52:49.916Z,344286,jarivandiermen@hotmail.com,1000428421,included,-1
+2023-05-18T10:52:51.838Z,344286,jarivandiermen@hotmail.com,1000428421,"""__EXR__cord blood""",1
+2023-05-18T10:52:51.869Z,344286,jarivandiermen@hotmail.com,1000428421,included,-1
+2023-05-18T10:54:54.448Z,344286,jarivandiermen@hotmail.com,1000428426,"""body fat""",1
+2023-05-18T10:54:59.198Z,344286,jarivandiermen@hotmail.com,1000428426,included,1
+2023-05-18T10:55:22.495Z,344286,jarivandiermen@hotmail.com,1000428427,"""smoking""",1
+2023-05-18T10:57:04.621Z,344286,jarivandiermen@hotmail.com,1000428427,"""__EXR__No EWAS""",1
+2023-05-18T10:57:04.652Z,344286,jarivandiermen@hotmail.com,1000428427,included,-1
+2023-05-18T10:57:10.839Z,344286,jarivandiermen@hotmail.com,1000428427,"""smoking""",deleted
+2023-05-18T11:01:55.935Z,344286,jarivandiermen@hotmail.com,1000428430,"""__EXR__Maternal""",1
+2023-05-18T11:01:55.966Z,344286,jarivandiermen@hotmail.com,1000428430,included,-1
+2023-05-18T11:04:23.264Z,344286,jarivandiermen@hotmail.com,1000428435,"""__EXR__No environmental factor""",1
+2023-05-18T11:04:23.295Z,344286,jarivandiermen@hotmail.com,1000428435,included,-1
+2023-05-18T11:04:46.577Z,344286,jarivandiermen@hotmail.com,1000428435,included,0
+2023-05-18T11:04:55.311Z,344286,jarivandiermen@hotmail.com,1000428435,"""__EXR__No environmental factor""",deleted
+2023-05-18T11:05:06.030Z,344286,jarivandiermen@hotmail.com,1000428437,"""__EXR__No environmental factor""",1
+2023-05-18T11:05:06.061Z,344286,jarivandiermen@hotmail.com,1000428437,included,-1
+2023-05-18T11:05:33.030Z,344286,jarivandiermen@hotmail.com,1000428437,"""Meta-analysis""",1
+2023-05-18T11:05:45.046Z,344286,jarivandiermen@hotmail.com,1000428439,"""body fat""",1
+2023-05-18T11:06:27.921Z,344286,jarivandiermen@hotmail.com,1000428439,included,1
+2023-05-18T11:07:01.390Z,344286,jarivandiermen@hotmail.com,1000428440,"""__EXR__No environmental factor""",1
+2023-05-18T11:07:01.405Z,344286,jarivandiermen@hotmail.com,1000428440,included,-1
+2023-05-18T11:10:12.781Z,344286,jarivandiermen@hotmail.com,1000428441,"""smoking""",1
+2023-05-18T11:10:16.500Z,344286,jarivandiermen@hotmail.com,1000428441,"""alcohol""",1
+2023-05-18T11:10:20.672Z,344286,jarivandiermen@hotmail.com,1000428441,included,1
+2023-05-18T11:11:26.782Z,344286,jarivandiermen@hotmail.com,1000428443,"""body fat""",1
+2023-05-18T11:11:28.375Z,344286,jarivandiermen@hotmail.com,1000428443,included,1
+2023-05-18T11:11:47.829Z,344286,jarivandiermen@hotmail.com,1000428447,"""PCBs""",1
+2023-05-18T11:11:50.813Z,344286,jarivandiermen@hotmail.com,1000428447,"""PCBs""",deleted
+2023-05-18T11:11:55.329Z,344286,jarivandiermen@hotmail.com,1000428447,"""PCB exposure""",1
+2023-05-18T11:12:59.798Z,344286,jarivandiermen@hotmail.com,1000428447,included,1
+2023-05-18T11:13:07.267Z,344286,jarivandiermen@hotmail.com,1000428448,"""__EXR__No environmental factor""",1
+2023-05-18T11:13:07.314Z,344286,jarivandiermen@hotmail.com,1000428448,included,-1
+2023-05-18T11:13:15.673Z,344286,jarivandiermen@hotmail.com,1000428451,"""body fat""",1
+2023-05-18T11:15:12.017Z,344286,jarivandiermen@hotmail.com,1000428451,"""Meta-analysis""",1
+2023-05-18T11:15:25.142Z,344286,jarivandiermen@hotmail.com,1000428451,included,1
+2023-05-18T11:15:58.721Z,344286,jarivandiermen@hotmail.com,1000428452,"""__EXR__No environmental factor""",1
+2023-05-18T11:15:58.768Z,344286,jarivandiermen@hotmail.com,1000428452,included,-1
+2023-05-18T11:17:14.565Z,344286,jarivandiermen@hotmail.com,1000428453,"""__EXR__No environmental factor""",1
+2023-05-18T11:17:14.596Z,344286,jarivandiermen@hotmail.com,1000428453,included,-1
+2023-05-19T08:44:22.915Z,344286,jarivandiermen@hotmail.com,1000428457,"""childhood adversity""",1
+2023-05-19T08:44:23.509Z,344286,jarivandiermen@hotmail.com,1000428457,included,1
+2023-05-19T08:45:14.712Z,344286,jarivandiermen@hotmail.com,1000428460,"""__EXR__cord blood""",1
+2023-05-19T08:45:14.775Z,344286,jarivandiermen@hotmail.com,1000428460,included,-1
+2023-05-19T08:45:16.072Z,344286,jarivandiermen@hotmail.com,1000428460,"""__EXR__Maternal""",1
+2023-05-19T08:45:16.103Z,344286,jarivandiermen@hotmail.com,1000428460,included,-1
+2023-05-19T08:45:59.869Z,344286,jarivandiermen@hotmail.com,1000428461,"""__EXR__No environmental factor""",1
+2023-05-19T08:45:59.900Z,344286,jarivandiermen@hotmail.com,1000428461,included,-1
+2023-05-19T08:46:51.603Z,344286,jarivandiermen@hotmail.com,1000428468,"""__EXR__No environmental factor""",1
+2023-05-19T08:46:51.682Z,344286,jarivandiermen@hotmail.com,1000428468,included,-1
+2023-05-19T08:47:28.854Z,344286,jarivandiermen@hotmail.com,1000428472,"""body fat""",1
+2023-05-19T08:47:32.744Z,344286,jarivandiermen@hotmail.com,1000428472,"""Meta-analysis""",1
+2023-05-19T08:47:55.307Z,344286,jarivandiermen@hotmail.com,1000428472,"""PMS""",1
+2023-05-19T08:50:10.526Z,344286,jarivandiermen@hotmail.com,1000428472,included,1
+2023-05-19T08:50:26.948Z,344286,jarivandiermen@hotmail.com,1000428474,"""__EXR__cord blood""",1
+2023-05-19T08:50:27.026Z,344286,jarivandiermen@hotmail.com,1000428474,included,-1
+2023-05-19T08:51:18.730Z,344286,jarivandiermen@hotmail.com,1000428476,"""__EXR__No environmental factor""",1
+2023-05-19T08:51:18.824Z,344286,jarivandiermen@hotmail.com,1000428476,included,-1
+2023-05-19T08:54:07.246Z,344286,jarivandiermen@hotmail.com,1000428477,"""smoking""",1
+2023-05-19T08:54:08.637Z,344286,jarivandiermen@hotmail.com,1000428477,included,1
+2023-05-19T08:56:26.653Z,344286,jarivandiermen@hotmail.com,1000428478,"""__EXR__No EWAS""",1
+2023-05-19T08:56:26.716Z,344286,jarivandiermen@hotmail.com,1000428478,included,-1
+2023-05-19T08:56:37.232Z,344286,jarivandiermen@hotmail.com,1000428483,"""__EXR__No environmental factor""",1
+2023-05-19T08:56:37.341Z,344286,jarivandiermen@hotmail.com,1000428483,included,-1
+2023-05-19T08:59:15.436Z,344286,jarivandiermen@hotmail.com,1000428484,"""smoking""",1
+2023-05-19T08:59:16.998Z,344286,jarivandiermen@hotmail.com,1000428484,included,0
+2023-05-19T08:59:30.998Z,344286,jarivandiermen@hotmail.com,1000428487,"""body fat""",1
+2023-05-19T09:00:05.827Z,344286,jarivandiermen@hotmail.com,1000428487,included,1
+2023-05-19T09:01:13.968Z,344286,jarivandiermen@hotmail.com,1000428489,"""__EXR__No environmental factor""",1
+2023-05-19T09:01:14.061Z,344286,jarivandiermen@hotmail.com,1000428489,included,-1
+2023-05-19T09:03:50.734Z,344286,jarivandiermen@hotmail.com,1000428488,"""smoking""",1
+2023-05-19T09:03:52.562Z,344286,jarivandiermen@hotmail.com,1000428488,included,0
+2023-05-19T09:04:24.234Z,344286,jarivandiermen@hotmail.com,1000428492,"""Meta-analysis""",1
+2023-05-19T09:06:29.110Z,344286,jarivandiermen@hotmail.com,1000428492,"""__EXR__No environmental factor""",1
+2023-05-19T09:06:29.141Z,344286,jarivandiermen@hotmail.com,1000428492,included,-1
+2023-05-19T09:07:28.595Z,344286,jarivandiermen@hotmail.com,1000428493,"""air pollution""",1
+2023-05-19T09:07:43.751Z,344286,jarivandiermen@hotmail.com,1000428493,included,1
+2023-05-19T09:07:53.595Z,344286,jarivandiermen@hotmail.com,1000428494,"""__EXR__No environmental factor""",1
+2023-05-19T09:07:53.642Z,344286,jarivandiermen@hotmail.com,1000428494,included,-1
+2023-05-19T09:38:36.182Z,344286,jarivandiermen@hotmail.com,1000428495,"""__EXR__No Blood samples""",1
+2023-05-19T09:38:36.276Z,344286,jarivandiermen@hotmail.com,1000428495,included,-1
+2023-05-19T09:41:57.418Z,344286,jarivandiermen@hotmail.com,1000428496,"""smoking""",1
+2023-05-19T09:41:59.574Z,344286,jarivandiermen@hotmail.com,1000428496,included,1
+2023-05-19T09:47:02.294Z,344286,jarivandiermen@hotmail.com,1000428497,"""body fat""",1
+2023-05-19T09:47:04.482Z,344286,jarivandiermen@hotmail.com,1000428497,included,0
+2023-05-19T09:48:09.466Z,344286,jarivandiermen@hotmail.com,1000428498,"""__EXR__No Blood samples""",1
+2023-05-19T09:48:09.529Z,344286,jarivandiermen@hotmail.com,1000428498,included,-1
+2023-05-19T09:49:13.107Z,344286,jarivandiermen@hotmail.com,1000428499,"""__EXR__No environmental factor""",1
+2023-05-19T09:49:13.170Z,344286,jarivandiermen@hotmail.com,1000428499,included,-1
+2023-05-19T09:50:14.529Z,344286,jarivandiermen@hotmail.com,1000428500,"""alcohol""",1
+2023-05-19T09:52:33.733Z,344286,jarivandiermen@hotmail.com,1000428500,included,1
+2023-05-19T09:52:36.921Z,344286,jarivandiermen@hotmail.com,1000428500,"""PMS""",1
+2023-05-19T09:56:14.719Z,344286,jarivandiermen@hotmail.com,1000428503,"""__EXR__prenatal""",1
+2023-05-19T09:56:14.797Z,344286,jarivandiermen@hotmail.com,1000428503,included,-1
+2023-05-19T09:58:10.110Z,344286,jarivandiermen@hotmail.com,1000428510,"""__EXR__No environmental factor""",1
+2023-05-19T09:58:10.157Z,344286,jarivandiermen@hotmail.com,1000428510,included,-1
+2023-05-19T09:59:23.516Z,344286,jarivandiermen@hotmail.com,1000428511,"""__EXR__No environmental factor""",1
+2023-05-19T09:59:23.610Z,344286,jarivandiermen@hotmail.com,1000428511,included,-1
+2023-05-19T10:05:07.706Z,344286,jarivandiermen@hotmail.com,1000428512,"""__EXR__No environmental factor""",1
+2023-05-19T10:05:07.831Z,344286,jarivandiermen@hotmail.com,1000428512,included,-1
+2023-05-19T10:15:59.913Z,344286,jarivandiermen@hotmail.com,1000428518,"""Zinc""",1
+2023-05-19T10:16:05.725Z,344286,jarivandiermen@hotmail.com,1000428518,"""PMS""",1
+2023-05-19T10:16:07.194Z,344286,jarivandiermen@hotmail.com,1000428518,included,1
+2023-05-19T10:20:45.586Z,344286,jarivandiermen@hotmail.com,1000428523,"""__EXR__No environmental factor""",1
+2023-05-19T10:20:45.633Z,344286,jarivandiermen@hotmail.com,1000428523,included,-1
+2023-05-19T10:22:51.977Z,344286,jarivandiermen@hotmail.com,1000428524,"""__EXR__No environmental factor""",1
+2023-05-19T10:22:52.008Z,344286,jarivandiermen@hotmail.com,1000428524,included,-1
+2023-05-19T10:25:17.681Z,344286,jarivandiermen@hotmail.com,1000428525,"""high altitude""",1
+2023-05-19T10:25:19.462Z,344286,jarivandiermen@hotmail.com,1000428525,included,1
+2023-05-19T10:25:32.431Z,344286,jarivandiermen@hotmail.com,1000428526,"""PBB exposure""",1
+2023-05-19T10:27:25.478Z,344286,jarivandiermen@hotmail.com,1000428526,included,1
+2023-05-19T10:27:52.994Z,344286,jarivandiermen@hotmail.com,1000428528,"""__EXR__cord blood""",1
+2023-05-19T10:27:53.041Z,344286,jarivandiermen@hotmail.com,1000428528,included,-1
+2023-05-19T10:27:56.729Z,344286,jarivandiermen@hotmail.com,1000428529,"""__EXR__No environmental factor""",1
+2023-05-19T10:27:56.775Z,344286,jarivandiermen@hotmail.com,1000428529,included,-1
+2023-05-19T10:28:23.135Z,344286,jarivandiermen@hotmail.com,1000428532,"""__EXR__No environmental factor""",1
+2023-05-19T10:28:23.229Z,344286,jarivandiermen@hotmail.com,1000428532,included,-1
+2023-05-19T10:28:40.244Z,344286,jarivandiermen@hotmail.com,1000428533,"""__EXR__Maternal""",1
+2023-05-19T10:28:40.276Z,344286,jarivandiermen@hotmail.com,1000428533,included,-1
+2023-05-19T10:28:50.604Z,344286,jarivandiermen@hotmail.com,1000428533,"""__EXR__background article""",1
+2023-05-19T10:28:50.682Z,344286,jarivandiermen@hotmail.com,1000428533,included,-1
+2023-05-19T10:28:55.791Z,344286,jarivandiermen@hotmail.com,1000428533,"""__EXR__background article""",deleted
+2023-05-19T10:28:59.401Z,344286,jarivandiermen@hotmail.com,1000428533,"""__EXR__cord blood""",1
+2023-05-19T10:28:59.510Z,344286,jarivandiermen@hotmail.com,1000428533,included,-1
+2023-05-19T10:29:10.651Z,344286,jarivandiermen@hotmail.com,1000428535,"""alcohol""",1
+2023-05-19T10:36:54.731Z,344286,jarivandiermen@hotmail.com,1000428535,included,1
+2023-05-19T10:36:55.372Z,344286,jarivandiermen@hotmail.com,1000428535,included,0
+2023-05-19T10:38:57.389Z,344286,jarivandiermen@hotmail.com,1000428541,"""vitamin""",1
+2023-05-19T10:38:58.358Z,344286,jarivandiermen@hotmail.com,1000428541,included,1
+2023-05-19T10:39:12.998Z,344286,jarivandiermen@hotmail.com,1000428543,"""__EXR__No environmental factor""",1
+2023-05-19T10:39:13.076Z,344286,jarivandiermen@hotmail.com,1000428543,included,-1
+2023-05-19T10:41:20.342Z,344286,jarivandiermen@hotmail.com,1000428544,"""smoking""",1
+2023-05-19T10:43:11.562Z,344286,jarivandiermen@hotmail.com,1000428544,included,1
+2023-05-19T10:43:22.593Z,344286,jarivandiermen@hotmail.com,1000428544,"""PMS""",1
+2023-05-19T10:43:30.546Z,344286,jarivandiermen@hotmail.com,1000428545,"""alcohol""",1
+2023-05-19T10:43:38.578Z,344286,jarivandiermen@hotmail.com,1000428545,included,1
+2023-05-19T10:49:21.470Z,344286,jarivandiermen@hotmail.com,1000428546,"""breastfeeding""",1
+2023-05-19T10:49:25.064Z,344286,jarivandiermen@hotmail.com,1000428546,included,1
+2023-05-19T10:49:32.814Z,344286,jarivandiermen@hotmail.com,1000428548,"""__EXR__No environmental factor""",1
+2023-05-19T10:49:32.908Z,344286,jarivandiermen@hotmail.com,1000428548,included,-1
+2023-05-19T10:51:05.877Z,344286,jarivandiermen@hotmail.com,1000428550,"""statin-use""",1
+2023-05-19T10:51:07.783Z,344286,jarivandiermen@hotmail.com,1000428550,included,1
+2023-05-19T10:51:09.267Z,344286,jarivandiermen@hotmail.com,1000428550,included,0
+2023-05-19T10:52:16.580Z,344286,jarivandiermen@hotmail.com,1000428551,"""body fat""",1
+2023-05-19T10:52:18.346Z,344286,jarivandiermen@hotmail.com,1000428551,included,1
+2023-05-19T10:52:26.737Z,344286,jarivandiermen@hotmail.com,1000428552,"""pesticide exposure""",1
+2023-05-19T10:52:44.346Z,344286,jarivandiermen@hotmail.com,1000428552,included,1
+2023-05-19T10:52:53.659Z,344286,jarivandiermen@hotmail.com,1000428554,"""__EXR__No environmental factor""",1
+2023-05-19T10:52:53.690Z,344286,jarivandiermen@hotmail.com,1000428554,included,-1
+2023-05-19T10:54:57.800Z,344286,jarivandiermen@hotmail.com,1000428556,"""__EXR__No environmental factor""",1
+2023-05-19T10:54:57.878Z,344286,jarivandiermen@hotmail.com,1000428556,included,-1
+2023-05-19T10:55:26.894Z,344286,jarivandiermen@hotmail.com,1000428558,"""Meta-analysis""",1
+2023-05-19T10:57:53.457Z,344286,jarivandiermen@hotmail.com,1000428558,"""allergy""",1
+2023-05-19T10:57:54.832Z,344286,jarivandiermen@hotmail.com,1000428558,included,0
+2023-05-19T11:00:44.582Z,344286,jarivandiermen@hotmail.com,1000428560,"""BP exposure""",1
+2023-05-19T11:00:46.441Z,344286,jarivandiermen@hotmail.com,1000428560,included,1
+2023-05-19T11:00:56.645Z,344286,jarivandiermen@hotmail.com,1000428563,"""Meta-analysis""",1
+2023-05-19T11:03:43.895Z,344286,jarivandiermen@hotmail.com,1000428563,"""arsenic exposure""",1
+2023-05-19T11:03:45.739Z,344286,jarivandiermen@hotmail.com,1000428563,included,1
+2023-05-19T11:04:10.802Z,344286,jarivandiermen@hotmail.com,1000428565,"""__EXR__No environmental factor""",1
+2023-05-19T11:04:10.833Z,344286,jarivandiermen@hotmail.com,1000428565,included,-1
+2023-05-19T11:04:20.771Z,344286,jarivandiermen@hotmail.com,1000428566,"""__EXR__cord blood""",1
+2023-05-19T11:04:20.817Z,344286,jarivandiermen@hotmail.com,1000428566,included,-1
+2023-05-19T11:04:32.583Z,344286,jarivandiermen@hotmail.com,1000428567,"""__EXR__No environmental factor""",1
+2023-05-19T11:04:32.693Z,344286,jarivandiermen@hotmail.com,1000428567,included,-1
+2023-05-19T11:05:11.349Z,344286,jarivandiermen@hotmail.com,1000428567,"""__EXR__Maternal""",1
+2023-05-19T11:05:11.427Z,344286,jarivandiermen@hotmail.com,1000428567,included,-1
+2023-05-19T11:05:37.662Z,344286,jarivandiermen@hotmail.com,1000428569,"""__EXR__No environmental factor""",1
+2023-05-19T11:05:37.755Z,344286,jarivandiermen@hotmail.com,1000428569,included,-1
+2023-05-19T11:05:53.318Z,344286,jarivandiermen@hotmail.com,1000428575,"""smoking""",1
+2023-05-19T11:08:12.006Z,344286,jarivandiermen@hotmail.com,1000428575,included,1
+2023-05-19T11:08:18.209Z,344286,jarivandiermen@hotmail.com,1000428576,"""__EXR__No environmental factor""",1
+2023-05-19T11:08:18.303Z,344286,jarivandiermen@hotmail.com,1000428576,included,-1
+2023-05-19T11:08:42.694Z,344286,jarivandiermen@hotmail.com,1000428577,"""__EXR__Maternal""",1
+2023-05-19T11:08:42.725Z,344286,jarivandiermen@hotmail.com,1000428577,included,-1
+2023-05-19T11:09:08.506Z,344286,jarivandiermen@hotmail.com,1000428578,"""__EXR__Maternal""",1
+2023-05-19T11:09:08.553Z,344286,jarivandiermen@hotmail.com,1000428578,included,-1
+2023-05-19T11:09:19.710Z,344286,jarivandiermen@hotmail.com,1000428578,"""__EXR__cord blood""",1
+2023-05-19T11:09:19.756Z,344286,jarivandiermen@hotmail.com,1000428578,included,-1
+2023-05-19T11:09:40.647Z,344286,jarivandiermen@hotmail.com,1000428580,"""__EXR__No environmental factor""",1
+2023-05-19T11:09:40.694Z,344286,jarivandiermen@hotmail.com,1000428580,included,-1
+2023-05-19T11:10:07.600Z,344286,jarivandiermen@hotmail.com,1000428582,"""__EXR__No Blood samples""",1
+2023-05-19T11:10:07.647Z,344286,jarivandiermen@hotmail.com,1000428582,included,-1
+2023-05-19T11:10:13.054Z,344286,jarivandiermen@hotmail.com,1000428582,"""__EXR__No environmental factor""",1
+2023-05-19T11:10:13.069Z,344286,jarivandiermen@hotmail.com,1000428582,included,-1
+2023-05-19T11:10:27.772Z,344286,jarivandiermen@hotmail.com,1000428584,"""__EXR__Maternal""",1
+2023-05-19T11:10:27.866Z,344286,jarivandiermen@hotmail.com,1000428584,included,-1
+2023-05-19T11:14:27.399Z,344286,jarivandiermen@hotmail.com,1000428587,"""body fat""",1
+2023-05-19T11:14:28.540Z,344286,jarivandiermen@hotmail.com,1000428587,included,0
+2023-05-19T11:14:40.899Z,344286,jarivandiermen@hotmail.com,1000428589,"""ambient temperature""",1
+2023-05-19T11:17:26.322Z,344286,jarivandiermen@hotmail.com,1000428589,included,1
+2023-05-19T11:17:37.556Z,344286,jarivandiermen@hotmail.com,1000428591,"""__EXR__Maternal""",1
+2023-05-19T11:17:37.588Z,344286,jarivandiermen@hotmail.com,1000428591,included,-1
+2023-05-19T11:17:39.291Z,344286,jarivandiermen@hotmail.com,1000428591,"""__EXR__cord blood""",1
+2023-05-19T11:17:39.384Z,344286,jarivandiermen@hotmail.com,1000428591,included,-1
+2023-05-19T11:18:05.306Z,344286,jarivandiermen@hotmail.com,1000428593,"""__EXR__Maternal""",1
+2023-05-19T11:18:05.541Z,344286,jarivandiermen@hotmail.com,1000428593,included,-1
+2023-05-19T11:18:07.791Z,344286,jarivandiermen@hotmail.com,1000428593,"""__EXR__cord blood""",1
+2023-05-19T11:18:07.869Z,344286,jarivandiermen@hotmail.com,1000428593,included,-1
+2023-05-19T11:55:19.068Z,344286,jarivandiermen@hotmail.com,1000428596,"""Meta-analysis""",1
+2023-05-19T11:55:50.912Z,344286,jarivandiermen@hotmail.com,1000428596,"""body fat""",1
+2023-05-19T11:55:51.959Z,344286,jarivandiermen@hotmail.com,1000428596,included,1
+2023-05-19T11:56:02.522Z,344286,jarivandiermen@hotmail.com,1000428597,"""body fat""",1
+2023-05-19T11:57:52.866Z,344286,jarivandiermen@hotmail.com,1000428597,included,0
+2023-05-19T11:59:15.507Z,344286,jarivandiermen@hotmail.com,1000428598,"""PMS""",1
+2023-05-19T12:02:42.602Z,344286,jarivandiermen@hotmail.com,1000428598,"""smoking""",1
+2023-05-19T12:02:43.195Z,344286,jarivandiermen@hotmail.com,1000428598,included,1
+2023-05-19T12:03:09.774Z,344286,jarivandiermen@hotmail.com,1000428600,"""__EXR__No Blood samples""",1
+2023-05-19T12:03:09.821Z,344286,jarivandiermen@hotmail.com,1000428600,included,-1
+2023-05-19T12:03:23.383Z,344286,jarivandiermen@hotmail.com,1000428602,"""__EXR__No environmental factor""",1
+2023-05-19T12:03:23.430Z,344286,jarivandiermen@hotmail.com,1000428602,included,-1
+2023-05-19T12:03:40.274Z,344286,jarivandiermen@hotmail.com,1000428603,"""herbicide""",1
+2023-05-19T12:05:39.493Z,344286,jarivandiermen@hotmail.com,1000428603,"""PMS""",1
+2023-05-19T12:06:30.400Z,344286,jarivandiermen@hotmail.com,1000428603,included,1
+2023-05-19T12:07:39.932Z,344286,jarivandiermen@hotmail.com,1000428606,"""__EXR__No environmental factor""",1
+2023-05-19T12:07:39.963Z,344286,jarivandiermen@hotmail.com,1000428606,included,-1
+2023-05-19T12:09:55.026Z,344286,jarivandiermen@hotmail.com,1000428607,"""__EXR__No environmental factor""",1
+2023-05-19T12:09:55.057Z,344286,jarivandiermen@hotmail.com,1000428607,included,-1
+2023-05-19T12:10:09.479Z,344286,jarivandiermen@hotmail.com,1000428608,"""__EXR__cord blood""",1
+2023-05-19T12:10:09.573Z,344286,jarivandiermen@hotmail.com,1000428608,included,-1
+2023-05-19T12:11:57.292Z,344286,jarivandiermen@hotmail.com,1000428609,"""air pollution""",1
+2023-05-19T12:11:58.714Z,344286,jarivandiermen@hotmail.com,1000428609,included,1
+2023-05-19T12:13:07.386Z,344286,jarivandiermen@hotmail.com,1000428609,"""noise""",1
+2023-05-19T12:16:08.200Z,344286,jarivandiermen@hotmail.com,1000428612,"""smoking""",1
+2023-05-19T12:16:09.575Z,344286,jarivandiermen@hotmail.com,1000428612,included,1
+2023-05-19T12:21:50.342Z,344286,jarivandiermen@hotmail.com,1000428613,"""neighborhood disadvantage""",1
+2023-05-19T12:22:12.155Z,344286,jarivandiermen@hotmail.com,1000428613,"""socioeconomic status""",1
+2023-05-19T12:22:14.436Z,344286,jarivandiermen@hotmail.com,1000428613,included,0
+2023-05-19T12:22:57.374Z,344286,jarivandiermen@hotmail.com,1000428615,"""Meta-analysis""",1
+2023-05-19T12:23:00.436Z,344286,jarivandiermen@hotmail.com,1000428615,"""__EXR__No environmental factor""",1
+2023-05-19T12:23:00.499Z,344286,jarivandiermen@hotmail.com,1000428615,included,-1
+2023-05-19T12:25:39.640Z,344286,jarivandiermen@hotmail.com,1000417732,"""__EXR__No environmental factor""",1
+2023-05-19T12:25:39.687Z,344286,jarivandiermen@hotmail.com,1000417732,included,-1
+2023-05-19T12:27:29.594Z,344286,jarivandiermen@hotmail.com,1000417644,"""asthma""",deleted
+2023-05-19T12:27:33.781Z,344286,jarivandiermen@hotmail.com,1000417644,"""__EXR__No environmental factor""",1
+2023-05-19T12:27:33.813Z,344286,jarivandiermen@hotmail.com,1000417644,included,-1
+2023-05-19T15:29:14.525Z,344286,jarivandiermen@hotmail.com,1000417281,included,-1
+2023-05-19T15:29:14.572Z,344286,jarivandiermen@hotmail.com,1000417283,included,-1
+2023-05-19T15:29:14.619Z,344286,jarivandiermen@hotmail.com,1000417340,included,-1
+2023-05-19T15:29:14.666Z,344286,jarivandiermen@hotmail.com,1000417350,included,-1
+2023-05-19T15:29:14.697Z,344286,jarivandiermen@hotmail.com,1000417357,included,-1
+2023-05-19T15:29:14.728Z,344286,jarivandiermen@hotmail.com,1000417381,included,-1
+2023-05-19T15:29:14.759Z,344286,jarivandiermen@hotmail.com,1000417468,included,-1
+2023-05-19T15:29:14.791Z,344286,jarivandiermen@hotmail.com,1000417719,included,-1
+2023-05-19T15:29:14.838Z,344286,jarivandiermen@hotmail.com,1000417728,included,-1
+2023-05-19T15:29:14.869Z,344286,jarivandiermen@hotmail.com,1000417752,included,-1
+2023-05-19T15:29:14.884Z,344286,jarivandiermen@hotmail.com,1000428256,included,-1
+2023-05-19T15:29:14.931Z,344286,jarivandiermen@hotmail.com,1000428308,included,-1
+2023-05-19T15:29:14.963Z,344286,jarivandiermen@hotmail.com,1000428418,included,-1
+2023-05-19T15:29:15.041Z,344286,jarivandiermen@hotmail.com,1000428426,included,-1
+2023-05-19T15:29:15.119Z,344286,jarivandiermen@hotmail.com,1000428439,included,-1
+2023-05-19T15:29:15.166Z,344286,jarivandiermen@hotmail.com,1000428443,included,-1
+2023-05-19T15:29:15.197Z,344286,jarivandiermen@hotmail.com,1000428451,included,-1
+2023-05-19T15:29:15.228Z,344286,jarivandiermen@hotmail.com,1000428472,included,-1
+2023-05-19T15:29:15.322Z,344286,jarivandiermen@hotmail.com,1000428487,included,-1
+2023-05-19T15:29:15.353Z,344286,jarivandiermen@hotmail.com,1000428497,included,-1
+2023-05-19T15:29:15.384Z,344286,jarivandiermen@hotmail.com,1000428551,included,-1
+2023-05-19T15:29:15.416Z,344286,jarivandiermen@hotmail.com,1000428587,included,-1
+2023-05-19T15:29:15.463Z,344286,jarivandiermen@hotmail.com,1000428596,included,-1
+2023-05-19T15:29:15.509Z,344286,jarivandiermen@hotmail.com,1000428597,included,-1
+2023-05-20T13:48:28.330Z,344286,jarivandiermen@hotmail.com,1000417243,"""PMS""",1
+2023-05-22T19:34:13.012Z,344286,jarivandiermen@hotmail.com,1000417242,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:13.387Z,344286,jarivandiermen@hotmail.com,1000417242,included,-1
+2023-05-22T19:34:13.433Z,344286,jarivandiermen@hotmail.com,1000417243,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:13.465Z,344286,jarivandiermen@hotmail.com,1000417243,included,-1
+2023-05-22T19:34:13.496Z,344286,jarivandiermen@hotmail.com,1000417384,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:13.543Z,344286,jarivandiermen@hotmail.com,1000417384,included,-1
+2023-05-22T19:34:13.574Z,344286,jarivandiermen@hotmail.com,1000417519,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:13.605Z,344286,jarivandiermen@hotmail.com,1000417519,included,-1
+2023-05-22T19:34:13.637Z,344286,jarivandiermen@hotmail.com,1000417522,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:13.699Z,344286,jarivandiermen@hotmail.com,1000417522,included,-1
+2023-05-22T19:34:13.746Z,344286,jarivandiermen@hotmail.com,1000417614,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:13.808Z,344286,jarivandiermen@hotmail.com,1000417614,included,-1
+2023-05-22T19:34:13.871Z,344286,jarivandiermen@hotmail.com,1000417762,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:13.902Z,344286,jarivandiermen@hotmail.com,1000417762,included,-1
+2023-05-22T19:34:13.965Z,344286,jarivandiermen@hotmail.com,1000417835,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.012Z,344286,jarivandiermen@hotmail.com,1000417835,included,-1
+2023-05-22T19:34:14.043Z,344286,jarivandiermen@hotmail.com,1000428228,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.105Z,344286,jarivandiermen@hotmail.com,1000428228,included,-1
+2023-05-22T19:34:14.199Z,344286,jarivandiermen@hotmail.com,1000428238,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.230Z,344286,jarivandiermen@hotmail.com,1000428238,included,-1
+2023-05-22T19:34:14.262Z,344286,jarivandiermen@hotmail.com,1000428242,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.324Z,344286,jarivandiermen@hotmail.com,1000428242,included,-1
+2023-05-22T19:34:14.355Z,344286,jarivandiermen@hotmail.com,1000428245,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.387Z,344286,jarivandiermen@hotmail.com,1000428245,included,-1
+2023-05-22T19:34:14.418Z,344286,jarivandiermen@hotmail.com,1000428265,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.449Z,344286,jarivandiermen@hotmail.com,1000428265,included,-1
+2023-05-22T19:34:14.496Z,344286,jarivandiermen@hotmail.com,1000428302,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.527Z,344286,jarivandiermen@hotmail.com,1000428302,included,-1
+2023-05-22T19:34:14.558Z,344286,jarivandiermen@hotmail.com,1000428309,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.605Z,344286,jarivandiermen@hotmail.com,1000428309,included,-1
+2023-05-22T19:34:14.637Z,344286,jarivandiermen@hotmail.com,1000428332,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.668Z,344286,jarivandiermen@hotmail.com,1000428332,included,-1
+2023-05-22T19:34:14.699Z,344286,jarivandiermen@hotmail.com,1000428352,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.730Z,344286,jarivandiermen@hotmail.com,1000428352,included,-1
+2023-05-22T19:34:14.793Z,344286,jarivandiermen@hotmail.com,1000428366,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.840Z,344286,jarivandiermen@hotmail.com,1000428366,included,-1
+2023-05-22T19:34:14.887Z,344286,jarivandiermen@hotmail.com,1000428396,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.918Z,344286,jarivandiermen@hotmail.com,1000428396,included,-1
+2023-05-22T19:34:14.949Z,344286,jarivandiermen@hotmail.com,1000428457,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:14.996Z,344286,jarivandiermen@hotmail.com,1000428457,included,-1
+2023-05-22T19:34:15.027Z,344286,jarivandiermen@hotmail.com,1000428546,"""__EXR__Not updated environmental exposure""",1
+2023-05-22T19:34:15.058Z,344286,jarivandiermen@hotmail.com,1000428546,included,-1
+2023-05-24T12:14:09.512Z,344286,jarivandiermen@hotmail.com,1000417372,"""Meta-analysis""",1
+2023-05-25T19:48:22.119Z,344286,jarivandiermen@hotmail.com,1000417633,"""smoking""",deleted
+2023-05-25T19:48:37.822Z,344286,jarivandiermen@hotmail.com,1000417633,"""__EXR__No environmental factor""",1
+2023-05-25T19:48:37.869Z,344286,jarivandiermen@hotmail.com,1000417633,included,-1
+2023-05-26T09:32:12.406Z,344286,jarivandiermen@hotmail.com,1000417738,"""__EXR__Not updated environmental exposure""",1
+2023-05-26T09:32:12.500Z,344286,jarivandiermen@hotmail.com,1000417738,included,-1
+2023-05-31T09:58:00.796Z,344286,jarivandiermen@hotmail.com,1000428275,"""__EXR__No age/sex adjustment""",1
+2023-05-31T09:58:01.171Z,344286,jarivandiermen@hotmail.com,1000428275,included,-1
+2023-05-31T09:58:49.718Z,344286,jarivandiermen@hotmail.com,1000417348,"""__EXR__No age/sex adjustment""",1
+2023-05-31T09:58:49.797Z,344286,jarivandiermen@hotmail.com,1000417348,included,-1
+2023-05-31T09:59:27.344Z,344286,jarivandiermen@hotmail.com,1000417373,"""__EXR__No age/sex adjustment""",1
+2023-05-31T09:59:27.406Z,344286,jarivandiermen@hotmail.com,1000417373,included,-1
+2023-05-31T10:02:34.954Z,344286,jarivandiermen@hotmail.com,1000417598,"""__EXR__No age/sex adjustment""",1
+2023-05-31T10:02:35.016Z,344286,jarivandiermen@hotmail.com,1000417598,included,-1
+2023-05-31T21:56:38.224Z,344286,jarivandiermen@hotmail.com,1000428410,"""__EXR__Is methodology""",1
+2023-05-31T21:56:38.505Z,344286,jarivandiermen@hotmail.com,1000428410,included,-1
+2023-05-31T21:57:01.755Z,344286,jarivandiermen@hotmail.com,1000428410,"""__EXR__Is methodology""",deleted
+2023-05-31T21:57:12.943Z,344286,jarivandiermen@hotmail.com,1000428410,"""__EXR__Is Methodology article""",1
+2023-05-31T21:57:13.005Z,344286,jarivandiermen@hotmail.com,1000428410,included,-1
+2023-06-01T18:52:24.062Z,344286,jarivandiermen@hotmail.com,1000428541,"""__EXR__No age/sex adjustment""",1
+2023-06-01T18:52:24.343Z,344286,jarivandiermen@hotmail.com,1000428541,included,-1
+2023-06-01T21:26:42.830Z,344286,jarivandiermen@hotmail.com,1000428560,"""__EXR__No environmental factor""",1
+2023-06-01T21:26:42.877Z,344286,jarivandiermen@hotmail.com,1000428560,included,-1
+2023-06-02T11:35:03.780Z,344286,jarivandiermen@hotmail.com,1000428279,"""__EXR__Article not accessible""",1
+2023-06-02T11:35:03.921Z,344286,jarivandiermen@hotmail.com,1000428279,included,-1
+2023-06-02T12:31:48.813Z,344286,jarivandiermen@hotmail.com,1000428598,"""__EXR__No EWAS""",1
+2023-06-02T12:31:48.891Z,344286,jarivandiermen@hotmail.com,1000428598,included,-1
+2023-06-02T15:02:21.906Z,344286,jarivandiermen@hotmail.com,1000428612,"""__EXR__No Blood samples""",1
+2023-06-02T15:02:21.969Z,344286,jarivandiermen@hotmail.com,1000428612,included,-1
+2023-06-22T11:05:57.452Z,344286,jarivandiermen@hotmail.com,1000417517,"""__EXR__No environmental factor""",1
+2023-06-22T11:05:57.921Z,344286,jarivandiermen@hotmail.com,1000417517,included,-1
+2023-06-22T11:06:00.312Z,344286,jarivandiermen@hotmail.com,1000417517,"""__EXR__No EWAS""",1
+2023-06-22T11:06:00.359Z,344286,jarivandiermen@hotmail.com,1000417517,included,-1
+2023-06-27T09:33:28.856Z,344286,jarivandiermen@hotmail.com,1000417511,"""__EXR__No environmental factor""",1
+2023-06-27T09:33:29.043Z,344286,jarivandiermen@hotmail.com,1000417511,included,-1
+2023-06-27T09:33:32.856Z,344286,jarivandiermen@hotmail.com,1000417629,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:33:33.043Z,344286,jarivandiermen@hotmail.com,1000417629,included,-1
+2023-06-27T09:33:38.590Z,344286,jarivandiermen@hotmail.com,1000417768,included,-1
+2023-06-27T09:33:41.715Z,344286,jarivandiermen@hotmail.com,1000417768,"""__EXR__No environmental factor""",1
+2023-06-27T09:33:41.762Z,344286,jarivandiermen@hotmail.com,1000417768,included,-1
+2023-06-27T09:33:47.684Z,344286,jarivandiermen@hotmail.com,1000417768,"""__EXR__No environmental factor""",deleted
+2023-06-27T09:33:51.184Z,344286,jarivandiermen@hotmail.com,1000417768,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:33:51.215Z,344286,jarivandiermen@hotmail.com,1000417768,included,-1
+2023-06-27T09:34:06.762Z,344286,jarivandiermen@hotmail.com,1000428204,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:06.856Z,344286,jarivandiermen@hotmail.com,1000428204,included,-1
+2023-06-27T09:34:13.856Z,344286,jarivandiermen@hotmail.com,1000428226,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:13.950Z,344286,jarivandiermen@hotmail.com,1000428226,included,-1
+2023-06-27T09:34:16.465Z,344286,jarivandiermen@hotmail.com,1000428274,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:16.497Z,344286,jarivandiermen@hotmail.com,1000428274,included,-1
+2023-06-27T09:34:19.262Z,344286,jarivandiermen@hotmail.com,1000428301,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:19.356Z,344286,jarivandiermen@hotmail.com,1000428301,included,-1
+2023-06-27T09:34:23.622Z,344286,jarivandiermen@hotmail.com,1000428326,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:23.684Z,344286,jarivandiermen@hotmail.com,1000428326,included,-1
+2023-06-27T09:34:37.403Z,344286,jarivandiermen@hotmail.com,1000428403,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:37.434Z,344286,jarivandiermen@hotmail.com,1000428403,included,-1
+2023-06-27T09:34:41.184Z,344286,jarivandiermen@hotmail.com,1000428435,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:41.215Z,344286,jarivandiermen@hotmail.com,1000428435,included,-1
+2023-06-27T09:34:54.778Z,344286,jarivandiermen@hotmail.com,1000428550,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:34:54.825Z,344286,jarivandiermen@hotmail.com,1000428550,included,-1
+2023-06-27T09:35:01.309Z,344286,jarivandiermen@hotmail.com,1000428558,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:35:01.356Z,344286,jarivandiermen@hotmail.com,1000428558,included,-1
+2023-06-27T09:35:07.137Z,344286,jarivandiermen@hotmail.com,1000428613,"""__EXR__Not updated environmental exposure""",1
+2023-06-27T09:35:07.262Z,344286,jarivandiermen@hotmail.com,1000428613,included,-1
