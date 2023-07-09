@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="126mm"
+   height="223mm"
+   viewBox="0 0 126 223"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Critical_appraissal_schematic.svg"
+   inkscape:export-filename="Critical_appraissal_schematic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.025849"
+     inkscape:cx="159.43933"
+     inkscape:cy="649.851"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g53214" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect234"
+       width="51.716415"
+       height="24.011194"
+       x="1.7456453"
+       y="1.3965129"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+       x="11.961783"
+       y="13.017913"
+       id="text2404"><tspan
+         sodipodi:role="line"
+         id="tspan2402"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="11.961783"
+         y="13.017913">Pubmed articles</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="11.961783"
+         y="17.967924"
+         id="tspan4010">n = 255</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect6916"
+       width="51.716415"
+       height="24.011194"
+       x="67.362328"
+       y="1.3965129"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+       x="69.942207"
+       y="11.959579"
+       id="text6922"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="69.942207"
+         y="11.959579">Web of science articles</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="69.942207"
+         y="16.90959"
+         id="tspan6920">n = 342</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect9828"
+       width="51.716415"
+       height="24.011194"
+       x="1.7456453"
+       y="41.613178"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+       x="17.664797"
+       y="53.234585"
+       id="text9834"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="17.664797"
+         y="53.234585"
+         id="tspan9832">All articles</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="17.664797"
+         y="58.184597"
+         id="tspan10566">n = 597</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.534;stroke-dasharray:none;marker-start:url(#TriangleStart)"
+       d="m 57.808675,37.52342 7.558986,-8.886418"
+       id="path16996" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.534;stroke-dasharray:none;marker-start:url(#TriangleStart)"
+       d="m 26.963773,38.164398 -3e-5,-11.66647"
+       id="path17016" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect17030"
+       width="51.716415"
+       height="24.011194"
+       x="2.2748125"
+       y="126.27976"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+       x="17.664797"
+       y="137.90105"
+       id="text17036"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="17.664797"
+         y="137.90105"
+         id="tspan17032">Screening</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="17.664797"
+         y="142.85106"
+         id="tspan17034">n = 71</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.534;stroke-dasharray:none;marker-start:url(#TriangleStart)"
+       d="m 27.492937,79.968562 -3e-5,-11.666465"
+       id="path18516" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect19286"
+       width="51.716415"
+       height="24.011194"
+       x="2.2748048"
+       y="84.475655"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+       x="8.2403831"
+       y="96.096985"
+       id="text19292"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="8.2403831"
+         y="96.096985"
+         id="tspan19288">Removed duplicates</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="8.2403831"
+         y="101.047"
+         id="tspan19290">n = 361</tspan></text>
+    <rect
+       style="fill:#e9afaf;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect27756"
+       width="57.778542"
+       height="23.97817"
+       x="67.378838"
+       y="84.492165"
+       ry="0" />
+    <g
+       id="g30061"
+       transform="translate(-49.025901,-26.458334)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="139.65619"
+         y="116.73454"
+         id="text27762"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="139.65619"
+           y="116.73454"
+           id="tspan27760">Excluded (n = 236)</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.323;stroke-dasharray:none"
+         d="m 121.06288,117.46385 h 37.38"
+         id="path28558" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e9afaf;stroke-width:0.534;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="m 64.227441,96.558693 -8.707438,2e-5"
+       id="path18522" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+       x="71.740364"
+       y="96.096985"
+       id="text29318"><tspan
+         sodipodi:role="line"
+         style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="71.740364"
+         y="96.096985"
+         id="tspan29316">Removed duplicates: 274</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.534;stroke-dasharray:none;marker-start:url(#TriangleStart)"
+       d="m 27.492937,121.77274 -3e-5,-11.66647"
+       id="path30855" />
+    <rect
+       style="fill:#e9afaf;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect31619"
+       width="57.27874"
+       height="94.957848"
+       x="67.628738"
+       y="126.27976"
+       ry="0" />
+    <g
+       id="g31627"
+       transform="translate(-49.025901,15.345833)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="139.65619"
+         y="116.73454"
+         id="text31623"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="139.65619"
+           y="116.73454"
+           id="tspan31621">Excluded (n = 290)</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.323;stroke-dasharray:none"
+         d="m 121.06288,117.46385 h 37.38"
+         id="path31625" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e9afaf;stroke-width:0.534;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="m 64.227441,138.36288 -8.707438,2e-5"
+       id="path31629" />
+    <g
+       id="g53214"
+       transform="translate(31.897201,-51.329168)">
+      <text
+         xml:space="preserve"
+         style="font-size:4px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="40.006966"
+         y="189.66362"
+         id="text44966"><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="189.66362"
+           id="tspan44960">Maternal, paternal,</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="194.06361"
+           id="tspan44962">prenatal exposures </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="198.46362"
+           id="tspan44964">or cord blood samples</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="202.86362"
+           id="tspan44982" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="207.26363"
+           id="tspan44984">No environmental</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="211.66362"
+           id="tspan44986">exposure</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="216.06361"
+           id="tspan44988" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="220.46362"
+           id="tspan44990">No EWAS</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="224.86362"
+           id="tspan44992" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="229.26363"
+           id="tspan44994">No blood samples</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="233.66362"
+           id="tspan45734" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="238.06361"
+           id="tspan45736">Non-human samples</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="242.46362"
+           id="tspan48690" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="246.86362"
+           id="tspan49430">No age and sex</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="251.26363"
+           id="tspan50908">confounder correction</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="255.66362"
+           id="tspan51648" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="260.06363"
+           id="tspan51650">Review article</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="264.46362"
+           id="tspan53128" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="40.006966"
+           y="268.86362"
+           id="tspan53130">methodology article</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="81.811142"
+         y="189.67534"
+         id="text44972"><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="189.67534"
+           id="tspan44970" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="194.07533"
+           id="tspan53134" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="198.47534"
+           id="tspan53138">: 77</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="202.87534"
+           id="tspan53142" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="207.27534"
+           id="tspan53144" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="211.67534"
+           id="tspan53146">: 148</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="216.07533"
+           id="tspan53148" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="220.47534"
+           id="tspan53150">: 16</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="224.87534"
+           id="tspan53152" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="229.27534"
+           id="tspan53154">: 11</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="233.67534"
+           id="tspan53156" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="238.07533"
+           id="tspan53158">: 3</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="242.47534"
+           id="tspan53160" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="246.87534"
+           id="tspan53162" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="251.27534"
+           id="tspan53164">: 5</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="255.67534"
+           id="tspan53166" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="260.07535"
+           id="tspan53168">: 3</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="264.47534"
+           id="tspan53170" /><tspan
+           sodipodi:role="line"
+           style="font-size:4px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+           x="81.811142"
+           y="268.87534"
+           id="tspan53172">: 1</tspan></text>
+    </g>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.587;stroke-dasharray:none"
+       id="rect53216"
+       width="51.716415"
+       height="24.011194"
+       x="2.2748125"
+       y="195.60065"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.50001px;line-height:1.1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+       x="12.373126"
+       y="205.1053"
+       id="text53222"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="12.373126"
+         y="205.1053"
+         id="tspan53220">Articles included </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="12.373126"
+         y="210.05531"
+         id="tspan53228">in review</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.087;stroke-dasharray:none"
+         x="12.373126"
+         y="215.00533"
+         id="tspan53230">n = 71</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.534;stroke-dasharray:none;marker-start:url(#TriangleStart)"
+       d="m 27.492936,189.47559 -1.4e-5,-36.80944"
+       id="path53224" />
+  </g>
+</svg>
