@@ -2,7 +2,7 @@
 
 This repository contains the data and code created during the writing assignment of my master's program (Molecular and cellular life sciences).
 
-**Title writing assignment: 
+**Title writing assignment: DNA methylation signals in blood as proxies for environmental exposures** 
 
 The repository contains the following elements:
 - **Data folder:** contains the data used for the writing assignment.
